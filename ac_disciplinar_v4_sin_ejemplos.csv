@@ -1,0 +1,522 @@
+cod_pais,dato_pais_grado_3,dato_pais_grado_6,dato_region_grado_3,dato_region_grado_6,letra_magn,letra_ord,materia,nombre_categoria,descripcion_categoria
+ar,6,3,9,9,1,A,Matemáticas,Estadística y probabilidad,"Lectura e interpretación de datos estadísticos a partir de su representación en tablas, gráficos, pictogramas y diagramas.
+Habilidad de organizar datos recolectados en tablas, gráficos, pictogramas y diagramas."
+ar,24,28,21,23,1,B,Matemáticas,Geometría,"Conocimiento de las figuras y cuerpos geométricos, su caracterización, clasificación y construcción.
+Capacidad de establecer relaciones entre ellos y el entorno."
+ar,12,17,22,18,1,C,Matemáticas,Magnitudes y medidas,"Conocimiento de distintas magnitudes, y de sus distintas unidades de medidas. 
+Capacidad de realizar conversiones y de utilizarlas de acuerdo al contexto.
+Conocimiento y uso adecuado de distintos instrumentos de medición."
+ar,59,48,43,47,1,D,Matemáticas,Número y operaciones,"Conocimiento de los conjuntos de los números naturales y de los números racionales positivos.
+Cálculo de las operaciones de adición, sustracción, multiplicación y división en esos conjuntos; aplicación de sus propiedades y relaciones."
+ar,0,3,5,4,1,E,Matemáticas,Patrones y álgebra,"Capacidad de identificar, completar y construir regularidades numéricas y gráficas a partir de objetos del entorno, figuras geométricas y secuencias numéricas.
+Conocimiento para plantear y resolver ecuaciones simples de una variable."
+ar,40,25,29,29,1,B,Escritura,Conocimiento sobre el código,"Conocimiento del sistema alfabético, de grafemas (letras) y fonemas (sonidos). También considera aspectos caligráficos y ortográficos, y relaciones de significado, (sinónimos y antónimos)."
+ar,20,17,26,23,1,E,Escritura,Procesos involucrados en la escritura,"Procesos cognitivos involucrados en la producción escrita, como la planificación, textualización, revisión y reescritura de un texto, memoria de trabajo. Estos procesos suelen ser recursivos."
+ar,10,17,21,23,1,C,Escritura,Escritura Diversidad Textual,"Escritura de diversos tipos textuales, los que tienen diferentes propósitos comunicativos y formas de organizar la información según género (cuento, anécdota, comic, artículo, etc.)."
+ar,10,17,15,15,1,D,Escritura,Morfosintaxis,"Es lo que se entiende por gramática.  Comprende la morfología, el estudio de clases de palabras (sustantivo, verbo, etc.) y su flexión. También considera la sintaxis: funciones que adquieren las palabras en una oración (sujeto, verbo, complementos)."
+ar,20,25,9,9,1,A,Escritura,Coherencia y cohesión,"Características que permiten construir el sentido global del texto, tales como la presencia de una idea central sin ideas inconexas (coherencia) y uso de recursos lingüísticos para mantener las oraciones unidas (cohesión)."
+ar,43,22,34,39,1,C,Lectura,Lectura Diversidad Textual,"Lectura de diversos tipos y géneros textuales.  Estos tipos textuales y géneros tienen diferentes propósitos comunicativos y formas de organizar la información (cuento, anécdota, comic, artículo, opinión, etc.)."
+ar,43,22,27,23,1,A,Lectura,Comprensión lectora literal e inferencial,"Identificación de  información explícita en el texto (comprensión literal) e inferencias realizadas para identificar información sugerida, no explícita, en el texto (comprensión inferencial)."
+ar,0,11,20,19,1,D,Lectura,Estrategias de lectura,"Estrategias que usa el lector para comprender un texto (de relectura, de monitoreo de la comprensión, de anticipación, o hipótesis acerca del contenido de un texto, etc.)."
+ar,14,11,11,4,1,B,Lectura,Decodificación,"Proceso de asociación entre fonemas (sonidos) y grafemas (letras) que permite la lectura de palabras.  Abarca conciencia fonológica, precisión, fluidez y prosodia."
+ar,0,33,8,14,1,E,Lectura,Reflexión y evaluación,"Reflexión, valoración y crítica del texto por parte del lector. Esto permite identificar el propósito comunicativo y puntos de vista del texto, evaluar la funcionalidad de sus elementos formular juicios sobre él a nivel de contenido y forma."
+ar,,0,,17,1,A,Ciencias,"Ciencia, tecnología y sociedad","Refiere a la ciencia y la tecnología como construcciones humanas influenciadas por el contexto sociocultural, político y económico. Incluye temas relativos al impacto de la ciencia y la tecnología en la salud y en el medio ambiente."
+ar,,13,,23,1,B,Ciencias,Cuerpo humano y salud,"Conocimiento parcial del cuerpo humano, y comprensión de aspectos vinculados a su desarrollo, crecimiento y equilibrio; estructuras y funciones de los sistemas de órganos; conocimiento sobre la importancia de la salud para el bienestar general."
+ar,,20,,12,1,C,Ciencias,Ecología y medioambiente,"Nociones y conceptos relativos a la biodiversidad, ecosistema y equilibrio ecológico en relación con los recursos naturales y su importancia para la vida en el planeta, además de la noción de cadena trófica, su dinámica general y relevancia."
+ar,,27,,11,1,D,Ciencias,La energía y sus manifestaciones,Conocimientos de la noción de energía. Incluye el calor como una transferencia de energía; manifestaciones de energía en el planeta; y la noción de fuerza.
+ar,,13,,7,1,E,Ciencias,La materia y sus transformaciones,"Conocimientos de la estructura atómica y molecular y algunos estados de agregación.
+Clasificación de los materiales en sustancias puras o mezclas, y descripción de algunos métodos de separación."
+ar,,7,,13,1,G,Ciencias,Seres vivos,"Conocimiento sobre el ciclo de vida en los seres vivos, así como la noción de célula, particularmente, de su estructura y función en los seres vivos."
+ar,,20,,17,1,F,Ciencias,La tierra y el universo,"Conocimiento de las capas de la Tierra, su composición y dinámica; movimientos “externos” del planeta; fenómenos naturales Incluye la noción de Sistema Solar; el conocimiento de los planetas y de la Luna."
+bo,3,3,9,9,1,A,Matemáticas,Estadística y probabilidad,"Lectura e interpretación de datos estadísticos a partir de su representación en tablas, gráficos, pictogramas y diagramas.
+Habilidad de organizar datos recolectados en tablas, gráficos, pictogramas y diagramas."
+bo,25,48,21,23,1,B,Matemáticas,Geometría,"Conocimiento de las figuras y cuerpos geométricos, su caracterización, clasificación y construcción.
+Capacidad de establecer relaciones entre ellos y el entorno."
+bo,19,10,22,18,1,C,Matemáticas,Magnitudes y medidas,"Conocimiento de distintas magnitudes, y de sus distintas unidades de medidas. 
+Capacidad de realizar conversiones y de utilizarlas de acuerdo al contexto.
+Conocimiento y uso adecuado de distintos instrumentos de medición."
+bo,53,39,43,47,1,D,Matemáticas,Número y operaciones,"Conocimiento de los conjuntos de los números naturales y de los números racionales positivos.
+Cálculo de las operaciones de adición, sustracción, multiplicación y división en esos conjuntos; aplicación de sus propiedades y relaciones."
+bo,0,0,5,4,1,E,Matemáticas,Patrones y álgebra,"Capacidad de identificar, completar y construir regularidades numéricas y gráficas a partir de objetos del entorno, figuras geométricas y secuencias numéricas.
+Conocimiento para plantear y resolver ecuaciones simples de una variable."
+bo,15,21,29,29,1,B,Escritura,Conocimiento sobre el código,"Conocimiento del sistema alfabético, de grafemas (letras) y fonemas (sonidos). También considera aspectos caligráficos y ortográficos, y relaciones de significado, (sinónimos y antónimos)."
+bo,30,26,26,23,1,E,Escritura,Procesos involucrados en la escritura,"Procesos cognitivos involucrados en la producción escrita, como la planificación, textualización, revisión y reescritura de un texto, memoria de trabajo. Estos procesos suelen ser recursivos."
+bo,45,42,21,23,1,C,Escritura,Escritura Diversidad Textual,"Escritura de diversos tipos textuales, los que tienen diferentes propósitos comunicativos y formas de organizar la información según género (cuento, anécdota, comic, artículo, etc.)."
+bo,10,11,15,15,1,D,Escritura,Morfosintaxis,"Es lo que se entiende por gramática.  Comprende la morfología, el estudio de clases de palabras (sustantivo, verbo, etc.) y su flexión. También considera la sintaxis: funciones que adquieren las palabras en una oración (sujeto, verbo, complementos)."
+bo,0,0,9,9,1,A,Escritura,Coherencia y cohesión,"Características que permiten construir el sentido global del texto, tales como la presencia de una idea central sin ideas inconexas (coherencia) y uso de recursos lingüísticos para mantener las oraciones unidas (cohesión)."
+bo,75,86,34,39,1,C,Lectura,Lectura Diversidad Textual,"Lectura de diversos tipos y géneros textuales.  Estos tipos textuales y géneros tienen diferentes propósitos comunicativos y formas de organizar la información (cuento, anécdota, comic, artículo, opinión, etc.)."
+bo,8,10,27,23,1,A,Lectura,Comprensión lectora literal e inferencial,"Identificación de  información explícita en el texto (comprensión literal) e inferencias realizadas para identificar información sugerida, no explícita, en el texto (comprensión inferencial)."
+bo,0,0,20,19,1,D,Lectura,Estrategias de lectura,"Estrategias que usa el lector para comprender un texto (de relectura, de monitoreo de la comprensión, de anticipación, o hipótesis acerca del contenido de un texto, etc.)."
+bo,0,0,11,4,1,B,Lectura,Decodificación,"Proceso de asociación entre fonemas (sonidos) y grafemas (letras) que permite la lectura de palabras.  Abarca conciencia fonológica, precisión, fluidez y prosodia."
+bo,17,5,8,14,1,E,Lectura,Reflexión y evaluación,"Reflexión, valoración y crítica del texto por parte del lector. Esto permite identificar el propósito comunicativo y puntos de vista del texto, evaluar la funcionalidad de sus elementos formular juicios sobre él a nivel de contenido y forma."
+bo,,9,,17,1,A,Ciencias,"Ciencia, tecnología y sociedad","Refiere a la ciencia y la tecnología como construcciones humanas influenciadas por el contexto sociocultural, político y económico. Incluye temas relativos al impacto de la ciencia y la tecnología en la salud y en el medio ambiente."
+bo,,39,,23,1,B,Ciencias,Cuerpo humano y salud,"Conocimiento parcial del cuerpo humano, y comprensión de aspectos vinculados a su desarrollo, crecimiento y equilibrio; estructuras y funciones de los sistemas de órganos; conocimiento sobre la importancia de la salud para el bienestar general."
+bo,,9,,12,1,C,Ciencias,Ecología y medioambiente,"Nociones y conceptos relativos a la biodiversidad, ecosistema y equilibrio ecológico en relación con los recursos naturales y su importancia para la vida en el planeta, además de la noción de cadena trófica, su dinámica general y relevancia."
+bo,,0,,11,1,D,Ciencias,La energía y sus manifestaciones,Conocimientos de la noción de energía. Incluye el calor como una transferencia de energía; manifestaciones de energía en el planeta; y la noción de fuerza.
+bo,,0,,7,1,E,Ciencias,La materia y sus transformaciones,"Conocimientos de la estructura atómica y molecular y algunos estados de agregación.
+Clasificación de los materiales en sustancias puras o mezclas, y descripción de algunos métodos de separación."
+bo,,9,,13,1,G,Ciencias,Seres vivos,"Conocimiento sobre el ciclo de vida en los seres vivos, así como la noción de célula, particularmente, de su estructura y función en los seres vivos."
+bo,,33,,17,1,F,Ciencias,La tierra y el universo,"Conocimiento de las capas de la Tierra, su composición y dinámica; movimientos “externos” del planeta; fenómenos naturales Incluye la noción de Sistema Solar; el conocimiento de los planetas y de la Luna."
+br,13,14,9,9,1,A,Matemáticas,Estadística y probabilidad,"Lectura e interpretación de datos estadísticos a partir de su representación en tablas, gráficos, pictogramas y diagramas.
+Habilidad de organizar datos recolectados en tablas, gráficos, pictogramas y diagramas."
+br,30,28,21,23,1,B,Matemáticas,Geometría,"Conocimiento de las figuras y cuerpos geométricos, su caracterización, clasificación y construcción.
+Capacidad de establecer relaciones entre ellos y el entorno."
+br,19,12,22,18,1,C,Matemáticas,Magnitudes y medidas,"Conocimiento de distintas magnitudes, y de sus distintas unidades de medidas. 
+Capacidad de realizar conversiones y de utilizarlas de acuerdo al contexto.
+Conocimiento y uso adecuado de distintos instrumentos de medición."
+br,39,41,43,47,1,D,Matemáticas,Número y operaciones,"Conocimiento de los conjuntos de los números naturales y de los números racionales positivos.
+Cálculo de las operaciones de adición, sustracción, multiplicación y división en esos conjuntos; aplicación de sus propiedades y relaciones."
+br,0,5,5,4,1,E,Matemáticas,Patrones y álgebra,"Capacidad de identificar, completar y construir regularidades numéricas y gráficas a partir de objetos del entorno, figuras geométricas y secuencias numéricas.
+Conocimiento para plantear y resolver ecuaciones simples de una variable."
+br,8,33,29,29,1,B,Escritura,Conocimiento sobre el código,"Conocimiento del sistema alfabético, de grafemas (letras) y fonemas (sonidos). También considera aspectos caligráficos y ortográficos, y relaciones de significado, (sinónimos y antónimos)."
+br,50,33,26,23,1,E,Escritura,Procesos involucrados en la escritura,"Procesos cognitivos involucrados en la producción escrita, como la planificación, textualización, revisión y reescritura de un texto, memoria de trabajo. Estos procesos suelen ser recursivos."
+br,8,17,21,23,1,C,Escritura,Escritura Diversidad Textual,"Escritura de diversos tipos textuales, los que tienen diferentes propósitos comunicativos y formas de organizar la información según género (cuento, anécdota, comic, artículo, etc.)."
+br,8,0,15,15,1,D,Escritura,Morfosintaxis,"Es lo que se entiende por gramática.  Comprende la morfología, el estudio de clases de palabras (sustantivo, verbo, etc.) y su flexión. También considera la sintaxis: funciones que adquieren las palabras en una oración (sujeto, verbo, complementos)."
+br,25,17,9,9,1,A,Escritura,Coherencia y cohesión,"Características que permiten construir el sentido global del texto, tales como la presencia de una idea central sin ideas inconexas (coherencia) y uso de recursos lingüísticos para mantener las oraciones unidas (cohesión)."
+br,0,33,34,39,1,C,Lectura,Lectura Diversidad Textual,"Lectura de diversos tipos y géneros textuales.  Estos tipos textuales y géneros tienen diferentes propósitos comunicativos y formas de organizar la información (cuento, anécdota, comic, artículo, opinión, etc.)."
+br,33,27,27,23,1,A,Lectura,Comprensión lectora literal e inferencial,"Identificación de  información explícita en el texto (comprensión literal) e inferencias realizadas para identificar información sugerida, no explícita, en el texto (comprensión inferencial)."
+br,50,13,20,19,1,D,Lectura,Estrategias de lectura,"Estrategias que usa el lector para comprender un texto (de relectura, de monitoreo de la comprensión, de anticipación, o hipótesis acerca del contenido de un texto, etc.)."
+br,0,0,11,4,1,B,Lectura,Decodificación,"Proceso de asociación entre fonemas (sonidos) y grafemas (letras) que permite la lectura de palabras.  Abarca conciencia fonológica, precisión, fluidez y prosodia."
+br,17,27,8,14,1,E,Lectura,Reflexión y evaluación,"Reflexión, valoración y crítica del texto por parte del lector. Esto permite identificar el propósito comunicativo y puntos de vista del texto, evaluar la funcionalidad de sus elementos formular juicios sobre él a nivel de contenido y forma."
+br,,20,,17,1,A,Ciencias,"Ciencia, tecnología y sociedad","Refiere a la ciencia y la tecnología como construcciones humanas influenciadas por el contexto sociocultural, político y económico. Incluye temas relativos al impacto de la ciencia y la tecnología en la salud y en el medio ambiente."
+br,,20,,23,1,B,Ciencias,Cuerpo humano y salud,"Conocimiento parcial del cuerpo humano, y comprensión de aspectos vinculados a su desarrollo, crecimiento y equilibrio; estructuras y funciones de los sistemas de órganos; conocimiento sobre la importancia de la salud para el bienestar general."
+br,,16,,12,1,C,Ciencias,Ecología y medioambiente,"Nociones y conceptos relativos a la biodiversidad, ecosistema y equilibrio ecológico en relación con los recursos naturales y su importancia para la vida en el planeta, además de la noción de cadena trófica, su dinámica general y relevancia."
+br,,0,,11,1,D,Ciencias,La energía y sus manifestaciones,Conocimientos de la noción de energía. Incluye el calor como una transferencia de energía; manifestaciones de energía en el planeta; y la noción de fuerza.
+br,,4,,7,1,E,Ciencias,La materia y sus transformaciones,"Conocimientos de la estructura atómica y molecular y algunos estados de agregación.
+Clasificación de los materiales en sustancias puras o mezclas, y descripción de algunos métodos de separación."
+br,,12,,13,1,G,Ciencias,Seres vivos,"Conocimiento sobre el ciclo de vida en los seres vivos, así como la noción de célula, particularmente, de su estructura y función en los seres vivos."
+br,,28,,17,1,F,Ciencias,La tierra y el universo,"Conocimiento de las capas de la Tierra, su composición y dinámica; movimientos “externos” del planeta; fenómenos naturales Incluye la noción de Sistema Solar; el conocimiento de los planetas y de la Luna."
+cl,19,15,9,9,1,A,Matemáticas,Estadística y probabilidad,"Lectura e interpretación de datos estadísticos a partir de su representación en tablas, gráficos, pictogramas y diagramas.
+Habilidad de organizar datos recolectados en tablas, gráficos, pictogramas y diagramas."
+cl,19,31,21,23,1,B,Matemáticas,Geometría,"Conocimiento de las figuras y cuerpos geométricos, su caracterización, clasificación y construcción.
+Capacidad de establecer relaciones entre ellos y el entorno."
+cl,19,8,22,18,1,C,Matemáticas,Magnitudes y medidas,"Conocimiento de distintas magnitudes, y de sus distintas unidades de medidas. 
+Capacidad de realizar conversiones y de utilizarlas de acuerdo al contexto.
+Conocimiento y uso adecuado de distintos instrumentos de medición."
+cl,37,35,43,47,1,D,Matemáticas,Número y operaciones,"Conocimiento de los conjuntos de los números naturales y de los números racionales positivos.
+Cálculo de las operaciones de adición, sustracción, multiplicación y división en esos conjuntos; aplicación de sus propiedades y relaciones."
+cl,7,12,5,4,1,E,Matemáticas,Patrones y álgebra,"Capacidad de identificar, completar y construir regularidades numéricas y gráficas a partir de objetos del entorno, figuras geométricas y secuencias numéricas.
+Conocimiento para plantear y resolver ecuaciones simples de una variable."
+cl,27,33,29,29,1,B,Escritura,Conocimiento sobre el código,"Conocimiento del sistema alfabético, de grafemas (letras) y fonemas (sonidos). También considera aspectos caligráficos y ortográficos, y relaciones de significado, (sinónimos y antónimos)."
+cl,36,33,26,23,1,E,Escritura,Procesos involucrados en la escritura,"Procesos cognitivos involucrados en la producción escrita, como la planificación, textualización, revisión y reescritura de un texto, memoria de trabajo. Estos procesos suelen ser recursivos."
+cl,9,17,21,23,1,C,Escritura,Escritura Diversidad Textual,"Escritura de diversos tipos textuales, los que tienen diferentes propósitos comunicativos y formas de organizar la información según género (cuento, anécdota, comic, artículo, etc.)."
+cl,0,0,15,15,1,D,Escritura,Morfosintaxis,"Es lo que se entiende por gramática.  Comprende la morfología, el estudio de clases de palabras (sustantivo, verbo, etc.) y su flexión. También considera la sintaxis: funciones que adquieren las palabras en una oración (sujeto, verbo, complementos)."
+cl,27,17,9,9,1,A,Escritura,Coherencia y cohesión,"Características que permiten construir el sentido global del texto, tales como la presencia de una idea central sin ideas inconexas (coherencia) y uso de recursos lingüísticos para mantener las oraciones unidas (cohesión)."
+cl,36,27,34,39,1,C,Lectura,Lectura Diversidad Textual,"Lectura de diversos tipos y géneros textuales.  Estos tipos textuales y géneros tienen diferentes propósitos comunicativos y formas de organizar la información (cuento, anécdota, comic, artículo, opinión, etc.)."
+cl,9,9,27,23,1,A,Lectura,Comprensión lectora literal e inferencial,"Identificación de  información explícita en el texto (comprensión literal) e inferencias realizadas para identificar información sugerida, no explícita, en el texto (comprensión inferencial)."
+cl,18,27,20,19,1,D,Lectura,Estrategias de lectura,"Estrategias que usa el lector para comprender un texto (de relectura, de monitoreo de la comprensión, de anticipación, o hipótesis acerca del contenido de un texto, etc.)."
+cl,18,9,11,4,1,B,Lectura,Decodificación,"Proceso de asociación entre fonemas (sonidos) y grafemas (letras) que permite la lectura de palabras.  Abarca conciencia fonológica, precisión, fluidez y prosodia."
+cl,18,27,8,14,1,E,Lectura,Reflexión y evaluación,"Reflexión, valoración y crítica del texto por parte del lector. Esto permite identificar el propósito comunicativo y puntos de vista del texto, evaluar la funcionalidad de sus elementos formular juicios sobre él a nivel de contenido y forma."
+cl,,0,,17,1,A,Ciencias,"Ciencia, tecnología y sociedad","Refiere a la ciencia y la tecnología como construcciones humanas influenciadas por el contexto sociocultural, político y económico. Incluye temas relativos al impacto de la ciencia y la tecnología en la salud y en el medio ambiente."
+cl,,22,,23,1,B,Ciencias,Cuerpo humano y salud,"Conocimiento parcial del cuerpo humano, y comprensión de aspectos vinculados a su desarrollo, crecimiento y equilibrio; estructuras y funciones de los sistemas de órganos; conocimiento sobre la importancia de la salud para el bienestar general."
+cl,,17,,12,1,C,Ciencias,Ecología y medioambiente,"Nociones y conceptos relativos a la biodiversidad, ecosistema y equilibrio ecológico en relación con los recursos naturales y su importancia para la vida en el planeta, además de la noción de cadena trófica, su dinámica general y relevancia."
+cl,,28,,11,1,D,Ciencias,La energía y sus manifestaciones,Conocimientos de la noción de energía. Incluye el calor como una transferencia de energía; manifestaciones de energía en el planeta; y la noción de fuerza.
+cl,,17,,7,1,E,Ciencias,La materia y sus transformaciones,"Conocimientos de la estructura atómica y molecular y algunos estados de agregación.
+Clasificación de los materiales en sustancias puras o mezclas, y descripción de algunos métodos de separación."
+cl,,0,,13,1,G,Ciencias,Seres vivos,"Conocimiento sobre el ciclo de vida en los seres vivos, así como la noción de célula, particularmente, de su estructura y función en los seres vivos."
+cl,,17,,17,1,F,Ciencias,La tierra y el universo,"Conocimiento de las capas de la Tierra, su composición y dinámica; movimientos “externos” del planeta; fenómenos naturales Incluye la noción de Sistema Solar; el conocimiento de los planetas y de la Luna."
+co,22,36,9,9,1,A,Matemáticas,Estadística y probabilidad,"Lectura e interpretación de datos estadísticos a partir de su representación en tablas, gráficos, pictogramas y diagramas.
+Habilidad de organizar datos recolectados en tablas, gráficos, pictogramas y diagramas."
+co,17,26,21,23,1,B,Matemáticas,Geometría,"Conocimiento de las figuras y cuerpos geométricos, su caracterización, clasificación y construcción.
+Capacidad de establecer relaciones entre ellos y el entorno."
+co,24,12,22,18,1,C,Matemáticas,Magnitudes y medidas,"Conocimiento de distintas magnitudes, y de sus distintas unidades de medidas. 
+Capacidad de realizar conversiones y de utilizarlas de acuerdo al contexto.
+Conocimiento y uso adecuado de distintos instrumentos de medición."
+co,22,24,43,47,1,D,Matemáticas,Número y operaciones,"Conocimiento de los conjuntos de los números naturales y de los números racionales positivos.
+Cálculo de las operaciones de adición, sustracción, multiplicación y división en esos conjuntos; aplicación de sus propiedades y relaciones."
+co,15,2,5,4,1,E,Matemáticas,Patrones y álgebra,"Capacidad de identificar, completar y construir regularidades numéricas y gráficas a partir de objetos del entorno, figuras geométricas y secuencias numéricas.
+Conocimiento para plantear y resolver ecuaciones simples de una variable."
+co,10,33,29,29,1,B,Escritura,Conocimiento sobre el código,"Conocimiento del sistema alfabético, de grafemas (letras) y fonemas (sonidos). También considera aspectos caligráficos y ortográficos, y relaciones de significado, (sinónimos y antónimos)."
+co,50,33,26,23,1,E,Escritura,Procesos involucrados en la escritura,"Procesos cognitivos involucrados en la producción escrita, como la planificación, textualización, revisión y reescritura de un texto, memoria de trabajo. Estos procesos suelen ser recursivos."
+co,20,20,21,23,1,C,Escritura,Escritura Diversidad Textual,"Escritura de diversos tipos textuales, los que tienen diferentes propósitos comunicativos y formas de organizar la información según género (cuento, anécdota, comic, artículo, etc.)."
+co,10,7,15,15,1,D,Escritura,Morfosintaxis,"Es lo que se entiende por gramática.  Comprende la morfología, el estudio de clases de palabras (sustantivo, verbo, etc.) y su flexión. También considera la sintaxis: funciones que adquieren las palabras en una oración (sujeto, verbo, complementos)."
+co,10,7,9,9,1,A,Escritura,Coherencia y cohesión,"Características que permiten construir el sentido global del texto, tales como la presencia de una idea central sin ideas inconexas (coherencia) y uso de recursos lingüísticos para mantener las oraciones unidas (cohesión)."
+co,37,41,34,39,1,C,Lectura,Lectura Diversidad Textual,"Lectura de diversos tipos y géneros textuales.  Estos tipos textuales y géneros tienen diferentes propósitos comunicativos y formas de organizar la información (cuento, anécdota, comic, artículo, opinión, etc.)."
+co,9,0,27,23,1,A,Lectura,Comprensión lectora literal e inferencial,"Identificación de  información explícita en el texto (comprensión literal) e inferencias realizadas para identificar información sugerida, no explícita, en el texto (comprensión inferencial)."
+co,29,22,20,19,1,D,Lectura,Estrategias de lectura,"Estrategias que usa el lector para comprender un texto (de relectura, de monitoreo de la comprensión, de anticipación, o hipótesis acerca del contenido de un texto, etc.)."
+co,14,0,11,4,1,B,Lectura,Decodificación,"Proceso de asociación entre fonemas (sonidos) y grafemas (letras) que permite la lectura de palabras.  Abarca conciencia fonológica, precisión, fluidez y prosodia."
+co,11,37,8,14,1,E,Lectura,Reflexión y evaluación,"Reflexión, valoración y crítica del texto por parte del lector. Esto permite identificar el propósito comunicativo y puntos de vista del texto, evaluar la funcionalidad de sus elementos formular juicios sobre él a nivel de contenido y forma."
+co,,16,,17,1,A,Ciencias,"Ciencia, tecnología y sociedad","Refiere a la ciencia y la tecnología como construcciones humanas influenciadas por el contexto sociocultural, político y económico. Incluye temas relativos al impacto de la ciencia y la tecnología en la salud y en el medio ambiente."
+co,,11,,23,1,B,Ciencias,Cuerpo humano y salud,"Conocimiento parcial del cuerpo humano, y comprensión de aspectos vinculados a su desarrollo, crecimiento y equilibrio; estructuras y funciones de los sistemas de órganos; conocimiento sobre la importancia de la salud para el bienestar general."
+co,,13,,12,1,C,Ciencias,Ecología y medioambiente,"Nociones y conceptos relativos a la biodiversidad, ecosistema y equilibrio ecológico en relación con los recursos naturales y su importancia para la vida en el planeta, además de la noción de cadena trófica, su dinámica general y relevancia."
+co,,13,,11,1,D,Ciencias,La energía y sus manifestaciones,Conocimientos de la noción de energía. Incluye el calor como una transferencia de energía; manifestaciones de energía en el planeta; y la noción de fuerza.
+co,,18,,7,1,E,Ciencias,La materia y sus transformaciones,"Conocimientos de la estructura atómica y molecular y algunos estados de agregación.
+Clasificación de los materiales en sustancias puras o mezclas, y descripción de algunos métodos de separación."
+co,,20,,13,1,G,Ciencias,Seres vivos,"Conocimiento sobre el ciclo de vida en los seres vivos, así como la noción de célula, particularmente, de su estructura y función en los seres vivos."
+co,,9,,17,1,F,Ciencias,La tierra y el universo,"Conocimiento de las capas de la Tierra, su composición y dinámica; movimientos “externos” del planeta; fenómenos naturales Incluye la noción de Sistema Solar; el conocimiento de los planetas y de la Luna."
+cr,18,10,9,9,1,A,Matemáticas,Estadística y probabilidad,"Lectura e interpretación de datos estadísticos a partir de su representación en tablas, gráficos, pictogramas y diagramas.
+Habilidad de organizar datos recolectados en tablas, gráficos, pictogramas y diagramas."
+cr,24,30,21,23,1,B,Matemáticas,Geometría,"Conocimiento de las figuras y cuerpos geométricos, su caracterización, clasificación y construcción.
+Capacidad de establecer relaciones entre ellos y el entorno."
+cr,36,18,22,18,1,C,Matemáticas,Magnitudes y medidas,"Conocimiento de distintas magnitudes, y de sus distintas unidades de medidas. 
+Capacidad de realizar conversiones y de utilizarlas de acuerdo al contexto.
+Conocimiento y uso adecuado de distintos instrumentos de medición."
+cr,17,38,43,47,1,D,Matemáticas,Número y operaciones,"Conocimiento de los conjuntos de los números naturales y de los números racionales positivos.
+Cálculo de las operaciones de adición, sustracción, multiplicación y división en esos conjuntos; aplicación de sus propiedades y relaciones."
+cr,5,4,5,4,1,E,Matemáticas,Patrones y álgebra,"Capacidad de identificar, completar y construir regularidades numéricas y gráficas a partir de objetos del entorno, figuras geométricas y secuencias numéricas.
+Conocimiento para plantear y resolver ecuaciones simples de una variable."
+cr,37,27,29,29,1,B,Escritura,Conocimiento sobre el código,"Conocimiento del sistema alfabético, de grafemas (letras) y fonemas (sonidos). También considera aspectos caligráficos y ortográficos, y relaciones de significado, (sinónimos y antónimos)."
+cr,17,5,26,23,1,E,Escritura,Procesos involucrados en la escritura,"Procesos cognitivos involucrados en la producción escrita, como la planificación, textualización, revisión y reescritura de un texto, memoria de trabajo. Estos procesos suelen ser recursivos."
+cr,11,35,21,23,1,C,Escritura,Escritura Diversidad Textual,"Escritura de diversos tipos textuales, los que tienen diferentes propósitos comunicativos y formas de organizar la información según género (cuento, anécdota, comic, artículo, etc.)."
+cr,30,31,15,15,1,D,Escritura,Morfosintaxis,"Es lo que se entiende por gramática.  Comprende la morfología, el estudio de clases de palabras (sustantivo, verbo, etc.) y su flexión. También considera la sintaxis: funciones que adquieren las palabras en una oración (sujeto, verbo, complementos)."
+cr,6,1,9,9,1,A,Escritura,Coherencia y cohesión,"Características que permiten construir el sentido global del texto, tales como la presencia de una idea central sin ideas inconexas (coherencia) y uso de recursos lingüísticos para mantener las oraciones unidas (cohesión)."
+cr,27,17,34,39,1,C,Lectura,Lectura Diversidad Textual,"Lectura de diversos tipos y géneros textuales.  Estos tipos textuales y géneros tienen diferentes propósitos comunicativos y formas de organizar la información (cuento, anécdota, comic, artículo, opinión, etc.)."
+cr,41,37,27,23,1,A,Lectura,Comprensión lectora literal e inferencial,"Identificación de  información explícita en el texto (comprensión literal) e inferencias realizadas para identificar información sugerida, no explícita, en el texto (comprensión inferencial)."
+cr,20,46,20,19,1,D,Lectura,Estrategias de lectura,"Estrategias que usa el lector para comprender un texto (de relectura, de monitoreo de la comprensión, de anticipación, o hipótesis acerca del contenido de un texto, etc.)."
+cr,11,0,11,4,1,B,Lectura,Decodificación,"Proceso de asociación entre fonemas (sonidos) y grafemas (letras) que permite la lectura de palabras.  Abarca conciencia fonológica, precisión, fluidez y prosodia."
+cr,2,0,8,14,1,E,Lectura,Reflexión y evaluación,"Reflexión, valoración y crítica del texto por parte del lector. Esto permite identificar el propósito comunicativo y puntos de vista del texto, evaluar la funcionalidad de sus elementos formular juicios sobre él a nivel de contenido y forma."
+cr,,20,,17,1,A,Ciencias,"Ciencia, tecnología y sociedad","Refiere a la ciencia y la tecnología como construcciones humanas influenciadas por el contexto sociocultural, político y económico. Incluye temas relativos al impacto de la ciencia y la tecnología en la salud y en el medio ambiente."
+cr,,26,,23,1,B,Ciencias,Cuerpo humano y salud,"Conocimiento parcial del cuerpo humano, y comprensión de aspectos vinculados a su desarrollo, crecimiento y equilibrio; estructuras y funciones de los sistemas de órganos; conocimiento sobre la importancia de la salud para el bienestar general."
+cr,,16,,12,1,C,Ciencias,Ecología y medioambiente,"Nociones y conceptos relativos a la biodiversidad, ecosistema y equilibrio ecológico en relación con los recursos naturales y su importancia para la vida en el planeta, además de la noción de cadena trófica, su dinámica general y relevancia."
+cr,,15,,11,1,D,Ciencias,La energía y sus manifestaciones,Conocimientos de la noción de energía. Incluye el calor como una transferencia de energía; manifestaciones de energía en el planeta; y la noción de fuerza.
+cr,,9,,7,1,E,Ciencias,La materia y sus transformaciones,"Conocimientos de la estructura atómica y molecular y algunos estados de agregación.
+Clasificación de los materiales en sustancias puras o mezclas, y descripción de algunos métodos de separación."
+cr,,0,,13,1,G,Ciencias,Seres vivos,"Conocimiento sobre el ciclo de vida en los seres vivos, así como la noción de célula, particularmente, de su estructura y función en los seres vivos."
+cr,,14,,17,1,F,Ciencias,La tierra y el universo,"Conocimiento de las capas de la Tierra, su composición y dinámica; movimientos “externos” del planeta; fenómenos naturales Incluye la noción de Sistema Solar; el conocimiento de los planetas y de la Luna."
+cu,0,0,9,9,1,A,Matemáticas,Estadística y probabilidad,"Lectura e interpretación de datos estadísticos a partir de su representación en tablas, gráficos, pictogramas y diagramas.
+Habilidad de organizar datos recolectados en tablas, gráficos, pictogramas y diagramas."
+cu,21,19,21,23,1,B,Matemáticas,Geometría,"Conocimiento de las figuras y cuerpos geométricos, su caracterización, clasificación y construcción.
+Capacidad de establecer relaciones entre ellos y el entorno."
+cu,10,9,22,18,1,C,Matemáticas,Magnitudes y medidas,"Conocimiento de distintas magnitudes, y de sus distintas unidades de medidas. 
+Capacidad de realizar conversiones y de utilizarlas de acuerdo al contexto.
+Conocimiento y uso adecuado de distintos instrumentos de medición."
+cu,61,67,43,47,1,D,Matemáticas,Número y operaciones,"Conocimiento de los conjuntos de los números naturales y de los números racionales positivos.
+Cálculo de las operaciones de adición, sustracción, multiplicación y división en esos conjuntos; aplicación de sus propiedades y relaciones."
+cu,8,5,5,4,1,E,Matemáticas,Patrones y álgebra,"Capacidad de identificar, completar y construir regularidades numéricas y gráficas a partir de objetos del entorno, figuras geométricas y secuencias numéricas.
+Conocimiento para plantear y resolver ecuaciones simples de una variable."
+cu,61,46,29,29,1,B,Escritura,Conocimiento sobre el código,"Conocimiento del sistema alfabético, de grafemas (letras) y fonemas (sonidos). También considera aspectos caligráficos y ortográficos, y relaciones de significado, (sinónimos y antónimos)."
+cu,10,14,26,23,1,E,Escritura,Procesos involucrados en la escritura,"Procesos cognitivos involucrados en la producción escrita, como la planificación, textualización, revisión y reescritura de un texto, memoria de trabajo. Estos procesos suelen ser recursivos."
+cu,10,15,21,23,1,C,Escritura,Escritura Diversidad Textual,"Escritura de diversos tipos textuales, los que tienen diferentes propósitos comunicativos y formas de organizar la información según género (cuento, anécdota, comic, artículo, etc.)."
+cu,18,24,15,15,1,D,Escritura,Morfosintaxis,"Es lo que se entiende por gramática.  Comprende la morfología, el estudio de clases de palabras (sustantivo, verbo, etc.) y su flexión. También considera la sintaxis: funciones que adquieren las palabras en una oración (sujeto, verbo, complementos)."
+cu,0,2,9,9,1,A,Escritura,Coherencia y cohesión,"Características que permiten construir el sentido global del texto, tales como la presencia de una idea central sin ideas inconexas (coherencia) y uso de recursos lingüísticos para mantener las oraciones unidas (cohesión)."
+cu,32,36,34,39,1,C,Lectura,Lectura Diversidad Textual,"Lectura de diversos tipos y géneros textuales.  Estos tipos textuales y géneros tienen diferentes propósitos comunicativos y formas de organizar la información (cuento, anécdota, comic, artículo, opinión, etc.)."
+cu,30,45,27,23,1,A,Lectura,Comprensión lectora literal e inferencial,"Identificación de  información explícita en el texto (comprensión literal) e inferencias realizadas para identificar información sugerida, no explícita, en el texto (comprensión inferencial)."
+cu,5,9,20,19,1,D,Lectura,Estrategias de lectura,"Estrategias que usa el lector para comprender un texto (de relectura, de monitoreo de la comprensión, de anticipación, o hipótesis acerca del contenido de un texto, etc.)."
+cu,27,9,11,4,1,B,Lectura,Decodificación,"Proceso de asociación entre fonemas (sonidos) y grafemas (letras) que permite la lectura de palabras.  Abarca conciencia fonológica, precisión, fluidez y prosodia."
+cu,5,0,8,14,1,E,Lectura,Reflexión y evaluación,"Reflexión, valoración y crítica del texto por parte del lector. Esto permite identificar el propósito comunicativo y puntos de vista del texto, evaluar la funcionalidad de sus elementos formular juicios sobre él a nivel de contenido y forma."
+cu,,2,,17,1,A,Ciencias,"Ciencia, tecnología y sociedad","Refiere a la ciencia y la tecnología como construcciones humanas influenciadas por el contexto sociocultural, político y económico. Incluye temas relativos al impacto de la ciencia y la tecnología en la salud y en el medio ambiente."
+cu,,30,,23,1,B,Ciencias,Cuerpo humano y salud,"Conocimiento parcial del cuerpo humano, y comprensión de aspectos vinculados a su desarrollo, crecimiento y equilibrio; estructuras y funciones de los sistemas de órganos; conocimiento sobre la importancia de la salud para el bienestar general."
+cu,,5,,12,1,C,Ciencias,Ecología y medioambiente,"Nociones y conceptos relativos a la biodiversidad, ecosistema y equilibrio ecológico en relación con los recursos naturales y su importancia para la vida en el planeta, además de la noción de cadena trófica, su dinámica general y relevancia."
+cu,,10,,11,1,D,Ciencias,La energía y sus manifestaciones,Conocimientos de la noción de energía. Incluye el calor como una transferencia de energía; manifestaciones de energía en el planeta; y la noción de fuerza.
+cu,,0,,7,1,E,Ciencias,La materia y sus transformaciones,"Conocimientos de la estructura atómica y molecular y algunos estados de agregación.
+Clasificación de los materiales en sustancias puras o mezclas, y descripción de algunos métodos de separación."
+cu,,38,,13,1,G,Ciencias,Seres vivos,"Conocimiento sobre el ciclo de vida en los seres vivos, así como la noción de célula, particularmente, de su estructura y función en los seres vivos."
+cu,,15,,17,1,F,Ciencias,La tierra y el universo,"Conocimiento de las capas de la Tierra, su composición y dinámica; movimientos “externos” del planeta; fenómenos naturales Incluye la noción de Sistema Solar; el conocimiento de los planetas y de la Luna."
+ec,5,9,9,9,1,A,Matemáticas,Estadística y probabilidad,"Lectura e interpretación de datos estadísticos a partir de su representación en tablas, gráficos, pictogramas y diagramas.
+Habilidad de organizar datos recolectados en tablas, gráficos, pictogramas y diagramas."
+ec,17,15,21,23,1,B,Matemáticas,Geometría,"Conocimiento de las figuras y cuerpos geométricos, su caracterización, clasificación y construcción.
+Capacidad de establecer relaciones entre ellos y el entorno."
+ec,27,17,22,18,1,C,Matemáticas,Magnitudes y medidas,"Conocimiento de distintas magnitudes, y de sus distintas unidades de medidas. 
+Capacidad de realizar conversiones y de utilizarlas de acuerdo al contexto.
+Conocimiento y uso adecuado de distintos instrumentos de medición."
+ec,34,58,43,47,1,D,Matemáticas,Número y operaciones,"Conocimiento de los conjuntos de los números naturales y de los números racionales positivos.
+Cálculo de las operaciones de adición, sustracción, multiplicación y división en esos conjuntos; aplicación de sus propiedades y relaciones."
+ec,17,1,5,4,1,E,Matemáticas,Patrones y álgebra,"Capacidad de identificar, completar y construir regularidades numéricas y gráficas a partir de objetos del entorno, figuras geométricas y secuencias numéricas.
+Conocimiento para plantear y resolver ecuaciones simples de una variable."
+ec,27,32,29,29,1,B,Escritura,Conocimiento sobre el código,"Conocimiento del sistema alfabético, de grafemas (letras) y fonemas (sonidos). También considera aspectos caligráficos y ortográficos, y relaciones de significado, (sinónimos y antónimos)."
+ec,46,32,26,23,1,E,Escritura,Procesos involucrados en la escritura,"Procesos cognitivos involucrados en la producción escrita, como la planificación, textualización, revisión y reescritura de un texto, memoria de trabajo. Estos procesos suelen ser recursivos."
+ec,9,10,21,23,1,C,Escritura,Escritura Diversidad Textual,"Escritura de diversos tipos textuales, los que tienen diferentes propósitos comunicativos y formas de organizar la información según género (cuento, anécdota, comic, artículo, etc.)."
+ec,0,5,15,15,1,D,Escritura,Morfosintaxis,"Es lo que se entiende por gramática.  Comprende la morfología, el estudio de clases de palabras (sustantivo, verbo, etc.) y su flexión. También considera la sintaxis: funciones que adquieren las palabras en una oración (sujeto, verbo, complementos)."
+ec,18,21,9,9,1,A,Escritura,Coherencia y cohesión,"Características que permiten construir el sentido global del texto, tales como la presencia de una idea central sin ideas inconexas (coherencia) y uso de recursos lingüísticos para mantener las oraciones unidas (cohesión)."
+ec,17,25,34,39,1,C,Lectura,Lectura Diversidad Textual,"Lectura de diversos tipos y géneros textuales.  Estos tipos textuales y géneros tienen diferentes propósitos comunicativos y formas de organizar la información (cuento, anécdota, comic, artículo, opinión, etc.)."
+ec,33,19,27,23,1,A,Lectura,Comprensión lectora literal e inferencial,"Identificación de  información explícita en el texto (comprensión literal) e inferencias realizadas para identificar información sugerida, no explícita, en el texto (comprensión inferencial)."
+ec,17,13,20,19,1,D,Lectura,Estrategias de lectura,"Estrategias que usa el lector para comprender un texto (de relectura, de monitoreo de la comprensión, de anticipación, o hipótesis acerca del contenido de un texto, etc.)."
+ec,17,13,11,4,1,B,Lectura,Decodificación,"Proceso de asociación entre fonemas (sonidos) y grafemas (letras) que permite la lectura de palabras.  Abarca conciencia fonológica, precisión, fluidez y prosodia."
+ec,17,31,8,14,1,E,Lectura,Reflexión y evaluación,"Reflexión, valoración y crítica del texto por parte del lector. Esto permite identificar el propósito comunicativo y puntos de vista del texto, evaluar la funcionalidad de sus elementos formular juicios sobre él a nivel de contenido y forma."
+ec,,15,,17,1,A,Ciencias,"Ciencia, tecnología y sociedad","Refiere a la ciencia y la tecnología como construcciones humanas influenciadas por el contexto sociocultural, político y económico. Incluye temas relativos al impacto de la ciencia y la tecnología en la salud y en el medio ambiente."
+ec,,17,,23,1,B,Ciencias,Cuerpo humano y salud,"Conocimiento parcial del cuerpo humano, y comprensión de aspectos vinculados a su desarrollo, crecimiento y equilibrio; estructuras y funciones de los sistemas de órganos; conocimiento sobre la importancia de la salud para el bienestar general."
+ec,,10,,12,1,C,Ciencias,Ecología y medioambiente,"Nociones y conceptos relativos a la biodiversidad, ecosistema y equilibrio ecológico en relación con los recursos naturales y su importancia para la vida en el planeta, además de la noción de cadena trófica, su dinámica general y relevancia."
+ec,,15,,11,1,D,Ciencias,La energía y sus manifestaciones,Conocimientos de la noción de energía. Incluye el calor como una transferencia de energía; manifestaciones de energía en el planeta; y la noción de fuerza.
+ec,,7,,7,1,E,Ciencias,La materia y sus transformaciones,"Conocimientos de la estructura atómica y molecular y algunos estados de agregación.
+Clasificación de los materiales en sustancias puras o mezclas, y descripción de algunos métodos de separación."
+ec,,15,,13,1,G,Ciencias,Seres vivos,"Conocimiento sobre el ciclo de vida en los seres vivos, así como la noción de célula, particularmente, de su estructura y función en los seres vivos."
+ec,,20,,17,1,F,Ciencias,La tierra y el universo,"Conocimiento de las capas de la Tierra, su composición y dinámica; movimientos “externos” del planeta; fenómenos naturales Incluye la noción de Sistema Solar; el conocimiento de los planetas y de la Luna."
+sv,3,15,9,9,1,A,Matemáticas,Estadística y probabilidad,"Lectura e interpretación de datos estadísticos a partir de su representación en tablas, gráficos, pictogramas y diagramas.
+Habilidad de organizar datos recolectados en tablas, gráficos, pictogramas y diagramas."
+sv,11,23,21,23,1,B,Matemáticas,Geometría,"Conocimiento de las figuras y cuerpos geométricos, su caracterización, clasificación y construcción.
+Capacidad de establecer relaciones entre ellos y el entorno."
+sv,30,17,22,18,1,C,Matemáticas,Magnitudes y medidas,"Conocimiento de distintas magnitudes, y de sus distintas unidades de medidas. 
+Capacidad de realizar conversiones y de utilizarlas de acuerdo al contexto.
+Conocimiento y uso adecuado de distintos instrumentos de medición."
+sv,56,45,43,47,1,D,Matemáticas,Número y operaciones,"Conocimiento de los conjuntos de los números naturales y de los números racionales positivos.
+Cálculo de las operaciones de adición, sustracción, multiplicación y división en esos conjuntos; aplicación de sus propiedades y relaciones."
+sv,0,0,5,4,1,E,Matemáticas,Patrones y álgebra,"Capacidad de identificar, completar y construir regularidades numéricas y gráficas a partir de objetos del entorno, figuras geométricas y secuencias numéricas.
+Conocimiento para plantear y resolver ecuaciones simples de una variable."
+sv,36,36,29,29,1,B,Escritura,Conocimiento sobre el código,"Conocimiento del sistema alfabético, de grafemas (letras) y fonemas (sonidos). También considera aspectos caligráficos y ortográficos, y relaciones de significado, (sinónimos y antónimos)."
+sv,5,2,26,23,1,E,Escritura,Procesos involucrados en la escritura,"Procesos cognitivos involucrados en la producción escrita, como la planificación, textualización, revisión y reescritura de un texto, memoria de trabajo. Estos procesos suelen ser recursivos."
+sv,40,32,21,23,1,C,Escritura,Escritura Diversidad Textual,"Escritura de diversos tipos textuales, los que tienen diferentes propósitos comunicativos y formas de organizar la información según género (cuento, anécdota, comic, artículo, etc.)."
+sv,20,30,15,15,1,D,Escritura,Morfosintaxis,"Es lo que se entiende por gramática.  Comprende la morfología, el estudio de clases de palabras (sustantivo, verbo, etc.) y su flexión. También considera la sintaxis: funciones que adquieren las palabras en una oración (sujeto, verbo, complementos)."
+sv,0,0,9,9,1,A,Escritura,Coherencia y cohesión,"Características que permiten construir el sentido global del texto, tales como la presencia de una idea central sin ideas inconexas (coherencia) y uso de recursos lingüísticos para mantener las oraciones unidas (cohesión)."
+sv,34,48,34,39,1,C,Lectura,Lectura Diversidad Textual,"Lectura de diversos tipos y géneros textuales.  Estos tipos textuales y géneros tienen diferentes propósitos comunicativos y formas de organizar la información (cuento, anécdota, comic, artículo, opinión, etc.)."
+sv,21,30,27,23,1,A,Lectura,Comprensión lectora literal e inferencial,"Identificación de  información explícita en el texto (comprensión literal) e inferencias realizadas para identificar información sugerida, no explícita, en el texto (comprensión inferencial)."
+sv,31,21,20,19,1,D,Lectura,Estrategias de lectura,"Estrategias que usa el lector para comprender un texto (de relectura, de monitoreo de la comprensión, de anticipación, o hipótesis acerca del contenido de un texto, etc.)."
+sv,11,0,11,4,1,B,Lectura,Decodificación,"Proceso de asociación entre fonemas (sonidos) y grafemas (letras) que permite la lectura de palabras.  Abarca conciencia fonológica, precisión, fluidez y prosodia."
+sv,2,1,8,14,1,E,Lectura,Reflexión y evaluación,"Reflexión, valoración y crítica del texto por parte del lector. Esto permite identificar el propósito comunicativo y puntos de vista del texto, evaluar la funcionalidad de sus elementos formular juicios sobre él a nivel de contenido y forma."
+sv,,24,,17,1,A,Ciencias,"Ciencia, tecnología y sociedad","Refiere a la ciencia y la tecnología como construcciones humanas influenciadas por el contexto sociocultural, político y económico. Incluye temas relativos al impacto de la ciencia y la tecnología en la salud y en el medio ambiente."
+sv,,37,,23,1,B,Ciencias,Cuerpo humano y salud,"Conocimiento parcial del cuerpo humano, y comprensión de aspectos vinculados a su desarrollo, crecimiento y equilibrio; estructuras y funciones de los sistemas de órganos; conocimiento sobre la importancia de la salud para el bienestar general."
+sv,,3,,12,1,C,Ciencias,Ecología y medioambiente,"Nociones y conceptos relativos a la biodiversidad, ecosistema y equilibrio ecológico en relación con los recursos naturales y su importancia para la vida en el planeta, además de la noción de cadena trófica, su dinámica general y relevancia."
+sv,,7,,11,1,D,Ciencias,La energía y sus manifestaciones,Conocimientos de la noción de energía. Incluye el calor como una transferencia de energía; manifestaciones de energía en el planeta; y la noción de fuerza.
+sv,,6,,7,1,E,Ciencias,La materia y sus transformaciones,"Conocimientos de la estructura atómica y molecular y algunos estados de agregación.
+Clasificación de los materiales en sustancias puras o mezclas, y descripción de algunos métodos de separación."
+sv,,17,,13,1,G,Ciencias,Seres vivos,"Conocimiento sobre el ciclo de vida en los seres vivos, así como la noción de célula, particularmente, de su estructura y función en los seres vivos."
+sv,,7,,17,1,F,Ciencias,La tierra y el universo,"Conocimiento de las capas de la Tierra, su composición y dinámica; movimientos “externos” del planeta; fenómenos naturales Incluye la noción de Sistema Solar; el conocimiento de los planetas y de la Luna."
+gt,9,3,9,9,1,A,Matemáticas,Estadística y probabilidad,"Lectura e interpretación de datos estadísticos a partir de su representación en tablas, gráficos, pictogramas y diagramas.
+Habilidad de organizar datos recolectados en tablas, gráficos, pictogramas y diagramas."
+gt,18,24,21,23,1,B,Matemáticas,Geometría,"Conocimiento de las figuras y cuerpos geométricos, su caracterización, clasificación y construcción.
+Capacidad de establecer relaciones entre ellos y el entorno."
+gt,24,17,22,18,1,C,Matemáticas,Magnitudes y medidas,"Conocimiento de distintas magnitudes, y de sus distintas unidades de medidas. 
+Capacidad de realizar conversiones y de utilizarlas de acuerdo al contexto.
+Conocimiento y uso adecuado de distintos instrumentos de medición."
+gt,34,48,43,47,1,D,Matemáticas,Número y operaciones,"Conocimiento de los conjuntos de los números naturales y de los números racionales positivos.
+Cálculo de las operaciones de adición, sustracción, multiplicación y división en esos conjuntos; aplicación de sus propiedades y relaciones."
+gt,15,7,5,4,1,E,Matemáticas,Patrones y álgebra,"Capacidad de identificar, completar y construir regularidades numéricas y gráficas a partir de objetos del entorno, figuras geométricas y secuencias numéricas.
+Conocimiento para plantear y resolver ecuaciones simples de una variable."
+gt,35,30,29,29,1,B,Escritura,Conocimiento sobre el código,"Conocimiento del sistema alfabético, de grafemas (letras) y fonemas (sonidos). También considera aspectos caligráficos y ortográficos, y relaciones de significado, (sinónimos y antónimos)."
+gt,16,25,26,23,1,E,Escritura,Procesos involucrados en la escritura,"Procesos cognitivos involucrados en la producción escrita, como la planificación, textualización, revisión y reescritura de un texto, memoria de trabajo. Estos procesos suelen ser recursivos."
+gt,34,17,21,23,1,C,Escritura,Escritura Diversidad Textual,"Escritura de diversos tipos textuales, los que tienen diferentes propósitos comunicativos y formas de organizar la información según género (cuento, anécdota, comic, artículo, etc.)."
+gt,13,17,15,15,1,D,Escritura,Morfosintaxis,"Es lo que se entiende por gramática.  Comprende la morfología, el estudio de clases de palabras (sustantivo, verbo, etc.) y su flexión. También considera la sintaxis: funciones que adquieren las palabras en una oración (sujeto, verbo, complementos)."
+gt,2,11,9,9,1,A,Escritura,Coherencia y cohesión,"Características que permiten construir el sentido global del texto, tales como la presencia de una idea central sin ideas inconexas (coherencia) y uso de recursos lingüísticos para mantener las oraciones unidas (cohesión)."
+gt,5,7,34,39,1,C,Lectura,Lectura Diversidad Textual,"Lectura de diversos tipos y géneros textuales.  Estos tipos textuales y géneros tienen diferentes propósitos comunicativos y formas de organizar la información (cuento, anécdota, comic, artículo, opinión, etc.)."
+gt,24,16,27,23,1,A,Lectura,Comprensión lectora literal e inferencial,"Identificación de  información explícita en el texto (comprensión literal) e inferencias realizadas para identificar información sugerida, no explícita, en el texto (comprensión inferencial)."
+gt,39,51,20,19,1,D,Lectura,Estrategias de lectura,"Estrategias que usa el lector para comprender un texto (de relectura, de monitoreo de la comprensión, de anticipación, o hipótesis acerca del contenido de un texto, etc.)."
+gt,24,19,11,4,1,B,Lectura,Decodificación,"Proceso de asociación entre fonemas (sonidos) y grafemas (letras) que permite la lectura de palabras.  Abarca conciencia fonológica, precisión, fluidez y prosodia."
+gt,7,7,8,14,1,E,Lectura,Reflexión y evaluación,"Reflexión, valoración y crítica del texto por parte del lector. Esto permite identificar el propósito comunicativo y puntos de vista del texto, evaluar la funcionalidad de sus elementos formular juicios sobre él a nivel de contenido y forma."
+gt,,29,,17,1,A,Ciencias,"Ciencia, tecnología y sociedad","Refiere a la ciencia y la tecnología como construcciones humanas influenciadas por el contexto sociocultural, político y económico. Incluye temas relativos al impacto de la ciencia y la tecnología en la salud y en el medio ambiente."
+gt,,37,,23,1,B,Ciencias,Cuerpo humano y salud,"Conocimiento parcial del cuerpo humano, y comprensión de aspectos vinculados a su desarrollo, crecimiento y equilibrio; estructuras y funciones de los sistemas de órganos; conocimiento sobre la importancia de la salud para el bienestar general."
+gt,,4,,12,1,C,Ciencias,Ecología y medioambiente,"Nociones y conceptos relativos a la biodiversidad, ecosistema y equilibrio ecológico en relación con los recursos naturales y su importancia para la vida en el planeta, además de la noción de cadena trófica, su dinámica general y relevancia."
+gt,,3,,11,1,D,Ciencias,La energía y sus manifestaciones,Conocimientos de la noción de energía. Incluye el calor como una transferencia de energía; manifestaciones de energía en el planeta; y la noción de fuerza.
+gt,,0,,7,1,E,Ciencias,La materia y sus transformaciones,"Conocimientos de la estructura atómica y molecular y algunos estados de agregación.
+Clasificación de los materiales en sustancias puras o mezclas, y descripción de algunos métodos de separación."
+gt,,24,,13,1,G,Ciencias,Seres vivos,"Conocimiento sobre el ciclo de vida en los seres vivos, así como la noción de célula, particularmente, de su estructura y función en los seres vivos."
+gt,,4,,17,1,F,Ciencias,La tierra y el universo,"Conocimiento de las capas de la Tierra, su composición y dinámica; movimientos “externos” del planeta; fenómenos naturales Incluye la noción de Sistema Solar; el conocimiento de los planetas y de la Luna."
+hn,9,0,9,9,1,A,Matemáticas,Estadística y probabilidad,"Lectura e interpretación de datos estadísticos a partir de su representación en tablas, gráficos, pictogramas y diagramas.
+Habilidad de organizar datos recolectados en tablas, gráficos, pictogramas y diagramas."
+hn,32,20,21,23,1,B,Matemáticas,Geometría,"Conocimiento de las figuras y cuerpos geométricos, su caracterización, clasificación y construcción.
+Capacidad de establecer relaciones entre ellos y el entorno."
+hn,32,20,22,18,1,C,Matemáticas,Magnitudes y medidas,"Conocimiento de distintas magnitudes, y de sus distintas unidades de medidas. 
+Capacidad de realizar conversiones y de utilizarlas de acuerdo al contexto.
+Conocimiento y uso adecuado de distintos instrumentos de medición."
+hn,28,60,43,47,1,D,Matemáticas,Número y operaciones,"Conocimiento de los conjuntos de los números naturales y de los números racionales positivos.
+Cálculo de las operaciones de adición, sustracción, multiplicación y división en esos conjuntos; aplicación de sus propiedades y relaciones."
+hn,0,0,5,4,1,E,Matemáticas,Patrones y álgebra,"Capacidad de identificar, completar y construir regularidades numéricas y gráficas a partir de objetos del entorno, figuras geométricas y secuencias numéricas.
+Conocimiento para plantear y resolver ecuaciones simples de una variable."
+hn,11,4,29,29,1,B,Escritura,Conocimiento sobre el código,"Conocimiento del sistema alfabético, de grafemas (letras) y fonemas (sonidos). También considera aspectos caligráficos y ortográficos, y relaciones de significado, (sinónimos y antónimos)."
+hn,36,49,26,23,1,E,Escritura,Procesos involucrados en la escritura,"Procesos cognitivos involucrados en la producción escrita, como la planificación, textualización, revisión y reescritura de un texto, memoria de trabajo. Estos procesos suelen ser recursivos."
+hn,31,38,21,23,1,C,Escritura,Escritura Diversidad Textual,"Escritura de diversos tipos textuales, los que tienen diferentes propósitos comunicativos y formas de organizar la información según género (cuento, anécdota, comic, artículo, etc.)."
+hn,21,2,15,15,1,D,Escritura,Morfosintaxis,"Es lo que se entiende por gramática.  Comprende la morfología, el estudio de clases de palabras (sustantivo, verbo, etc.) y su flexión. También considera la sintaxis: funciones que adquieren las palabras en una oración (sujeto, verbo, complementos)."
+hn,0,6,9,9,1,A,Escritura,Coherencia y cohesión,"Características que permiten construir el sentido global del texto, tales como la presencia de una idea central sin ideas inconexas (coherencia) y uso de recursos lingüísticos para mantener las oraciones unidas (cohesión)."
+hn,33,36,34,39,1,C,Lectura,Lectura Diversidad Textual,"Lectura de diversos tipos y géneros textuales.  Estos tipos textuales y géneros tienen diferentes propósitos comunicativos y formas de organizar la información (cuento, anécdota, comic, artículo, opinión, etc.)."
+hn,16,15,27,23,1,A,Lectura,Comprensión lectora literal e inferencial,"Identificación de  información explícita en el texto (comprensión literal) e inferencias realizadas para identificar información sugerida, no explícita, en el texto (comprensión inferencial)."
+hn,29,28,20,19,1,D,Lectura,Estrategias de lectura,"Estrategias que usa el lector para comprender un texto (de relectura, de monitoreo de la comprensión, de anticipación, o hipótesis acerca del contenido de un texto, etc.)."
+hn,13,3,11,4,1,B,Lectura,Decodificación,"Proceso de asociación entre fonemas (sonidos) y grafemas (letras) que permite la lectura de palabras.  Abarca conciencia fonológica, precisión, fluidez y prosodia."
+hn,10,18,8,14,1,E,Lectura,Reflexión y evaluación,"Reflexión, valoración y crítica del texto por parte del lector. Esto permite identificar el propósito comunicativo y puntos de vista del texto, evaluar la funcionalidad de sus elementos formular juicios sobre él a nivel de contenido y forma."
+hn,,16,,17,1,A,Ciencias,"Ciencia, tecnología y sociedad","Refiere a la ciencia y la tecnología como construcciones humanas influenciadas por el contexto sociocultural, político y económico. Incluye temas relativos al impacto de la ciencia y la tecnología en la salud y en el medio ambiente."
+hn,,27,,23,1,B,Ciencias,Cuerpo humano y salud,"Conocimiento parcial del cuerpo humano, y comprensión de aspectos vinculados a su desarrollo, crecimiento y equilibrio; estructuras y funciones de los sistemas de órganos; conocimiento sobre la importancia de la salud para el bienestar general."
+hn,,18,,12,1,C,Ciencias,Ecología y medioambiente,"Nociones y conceptos relativos a la biodiversidad, ecosistema y equilibrio ecológico en relación con los recursos naturales y su importancia para la vida en el planeta, además de la noción de cadena trófica, su dinámica general y relevancia."
+hn,,9,,11,1,D,Ciencias,La energía y sus manifestaciones,Conocimientos de la noción de energía. Incluye el calor como una transferencia de energía; manifestaciones de energía en el planeta; y la noción de fuerza.
+hn,,6,,7,1,E,Ciencias,La materia y sus transformaciones,"Conocimientos de la estructura atómica y molecular y algunos estados de agregación.
+Clasificación de los materiales en sustancias puras o mezclas, y descripción de algunos métodos de separación."
+hn,,15,,13,1,G,Ciencias,Seres vivos,"Conocimiento sobre el ciclo de vida en los seres vivos, así como la noción de célula, particularmente, de su estructura y función en los seres vivos."
+hn,,9,,17,1,F,Ciencias,La tierra y el universo,"Conocimiento de las capas de la Tierra, su composición y dinámica; movimientos “externos” del planeta; fenómenos naturales Incluye la noción de Sistema Solar; el conocimiento de los planetas y de la Luna."
+mx,10,8,9,9,1,A,Matemáticas,Estadística y probabilidad,"Lectura e interpretación de datos estadísticos a partir de su representación en tablas, gráficos, pictogramas y diagramas.
+Habilidad de organizar datos recolectados en tablas, gráficos, pictogramas y diagramas."
+mx,7,16,21,23,1,B,Matemáticas,Geometría,"Conocimiento de las figuras y cuerpos geométricos, su caracterización, clasificación y construcción.
+Capacidad de establecer relaciones entre ellos y el entorno."
+mx,14,18,22,18,1,C,Matemáticas,Magnitudes y medidas,"Conocimiento de distintas magnitudes, y de sus distintas unidades de medidas. 
+Capacidad de realizar conversiones y de utilizarlas de acuerdo al contexto.
+Conocimiento y uso adecuado de distintos instrumentos de medición."
+mx,62,55,43,47,1,D,Matemáticas,Número y operaciones,"Conocimiento de los conjuntos de los números naturales y de los números racionales positivos.
+Cálculo de las operaciones de adición, sustracción, multiplicación y división en esos conjuntos; aplicación de sus propiedades y relaciones."
+mx,7,3,5,4,1,E,Matemáticas,Patrones y álgebra,"Capacidad de identificar, completar y construir regularidades numéricas y gráficas a partir de objetos del entorno, figuras geométricas y secuencias numéricas.
+Conocimiento para plantear y resolver ecuaciones simples de una variable."
+mx,29,26,29,29,1,B,Escritura,Conocimiento sobre el código,"Conocimiento del sistema alfabético, de grafemas (letras) y fonemas (sonidos). También considera aspectos caligráficos y ortográficos, y relaciones de significado, (sinónimos y antónimos)."
+mx,16,17,26,23,1,E,Escritura,Procesos involucrados en la escritura,"Procesos cognitivos involucrados en la producción escrita, como la planificación, textualización, revisión y reescritura de un texto, memoria de trabajo. Estos procesos suelen ser recursivos."
+mx,35,33,21,23,1,C,Escritura,Escritura Diversidad Textual,"Escritura de diversos tipos textuales, los que tienen diferentes propósitos comunicativos y formas de organizar la información según género (cuento, anécdota, comic, artículo, etc.)."
+mx,12,17,15,15,1,D,Escritura,Morfosintaxis,"Es lo que se entiende por gramática.  Comprende la morfología, el estudio de clases de palabras (sustantivo, verbo, etc.) y su flexión. También considera la sintaxis: funciones que adquieren las palabras en una oración (sujeto, verbo, complementos)."
+mx,7,7,9,9,1,A,Escritura,Coherencia y cohesión,"Características que permiten construir el sentido global del texto, tales como la presencia de una idea central sin ideas inconexas (coherencia) y uso de recursos lingüísticos para mantener las oraciones unidas (cohesión)."
+mx,33,80,34,39,1,C,Lectura,Lectura Diversidad Textual,"Lectura de diversos tipos y géneros textuales.  Estos tipos textuales y géneros tienen diferentes propósitos comunicativos y formas de organizar la información (cuento, anécdota, comic, artículo, opinión, etc.)."
+mx,13,0,27,23,1,A,Lectura,Comprensión lectora literal e inferencial,"Identificación de  información explícita en el texto (comprensión literal) e inferencias realizadas para identificar información sugerida, no explícita, en el texto (comprensión inferencial)."
+mx,27,14,20,19,1,D,Lectura,Estrategias de lectura,"Estrategias que usa el lector para comprender un texto (de relectura, de monitoreo de la comprensión, de anticipación, o hipótesis acerca del contenido de un texto, etc.)."
+mx,20,0,11,4,1,B,Lectura,Decodificación,"Proceso de asociación entre fonemas (sonidos) y grafemas (letras) que permite la lectura de palabras.  Abarca conciencia fonológica, precisión, fluidez y prosodia."
+mx,7,6,8,14,1,E,Lectura,Reflexión y evaluación,"Reflexión, valoración y crítica del texto por parte del lector. Esto permite identificar el propósito comunicativo y puntos de vista del texto, evaluar la funcionalidad de sus elementos formular juicios sobre él a nivel de contenido y forma."
+mx,,23,,17,1,A,Ciencias,"Ciencia, tecnología y sociedad","Refiere a la ciencia y la tecnología como construcciones humanas influenciadas por el contexto sociocultural, político y económico. Incluye temas relativos al impacto de la ciencia y la tecnología en la salud y en el medio ambiente."
+mx,,21,,23,1,B,Ciencias,Cuerpo humano y salud,"Conocimiento parcial del cuerpo humano, y comprensión de aspectos vinculados a su desarrollo, crecimiento y equilibrio; estructuras y funciones de los sistemas de órganos; conocimiento sobre la importancia de la salud para el bienestar general."
+mx,,18,,12,1,C,Ciencias,Ecología y medioambiente,"Nociones y conceptos relativos a la biodiversidad, ecosistema y equilibrio ecológico en relación con los recursos naturales y su importancia para la vida en el planeta, además de la noción de cadena trófica, su dinámica general y relevancia."
+mx,,21,,11,1,D,Ciencias,La energía y sus manifestaciones,Conocimientos de la noción de energía. Incluye el calor como una transferencia de energía; manifestaciones de energía en el planeta; y la noción de fuerza.
+mx,,6,,7,1,E,Ciencias,La materia y sus transformaciones,"Conocimientos de la estructura atómica y molecular y algunos estados de agregación.
+Clasificación de los materiales en sustancias puras o mezclas, y descripción de algunos métodos de separación."
+mx,,8,,13,1,G,Ciencias,Seres vivos,"Conocimiento sobre el ciclo de vida en los seres vivos, así como la noción de célula, particularmente, de su estructura y función en los seres vivos."
+mx,,3,,17,1,F,Ciencias,La tierra y el universo,"Conocimiento de las capas de la Tierra, su composición y dinámica; movimientos “externos” del planeta; fenómenos naturales Incluye la noción de Sistema Solar; el conocimiento de los planetas y de la Luna."
+ni,4,2,9,9,1,A,Matemáticas,Estadística y probabilidad,"Lectura e interpretación de datos estadísticos a partir de su representación en tablas, gráficos, pictogramas y diagramas.
+Habilidad de organizar datos recolectados en tablas, gráficos, pictogramas y diagramas."
+ni,16,13,21,23,1,B,Matemáticas,Geometría,"Conocimiento de las figuras y cuerpos geométricos, su caracterización, clasificación y construcción.
+Capacidad de establecer relaciones entre ellos y el entorno."
+ni,33,16,22,18,1,C,Matemáticas,Magnitudes y medidas,"Conocimiento de distintas magnitudes, y de sus distintas unidades de medidas. 
+Capacidad de realizar conversiones y de utilizarlas de acuerdo al contexto.
+Conocimiento y uso adecuado de distintos instrumentos de medición."
+ni,47,67,43,47,1,D,Matemáticas,Número y operaciones,"Conocimiento de los conjuntos de los números naturales y de los números racionales positivos.
+Cálculo de las operaciones de adición, sustracción, multiplicación y división en esos conjuntos; aplicación de sus propiedades y relaciones."
+ni,0,2,5,4,1,E,Matemáticas,Patrones y álgebra,"Capacidad de identificar, completar y construir regularidades numéricas y gráficas a partir de objetos del entorno, figuras geométricas y secuencias numéricas.
+Conocimiento para plantear y resolver ecuaciones simples de una variable."
+ni,42,50,29,29,1,B,Escritura,Conocimiento sobre el código,"Conocimiento del sistema alfabético, de grafemas (letras) y fonemas (sonidos). También considera aspectos caligráficos y ortográficos, y relaciones de significado, (sinónimos y antónimos)."
+ni,29,15,26,23,1,E,Escritura,Procesos involucrados en la escritura,"Procesos cognitivos involucrados en la producción escrita, como la planificación, textualización, revisión y reescritura de un texto, memoria de trabajo. Estos procesos suelen ser recursivos."
+ni,3,15,21,23,1,C,Escritura,Escritura Diversidad Textual,"Escritura de diversos tipos textuales, los que tienen diferentes propósitos comunicativos y formas de organizar la información según género (cuento, anécdota, comic, artículo, etc.)."
+ni,26,18,15,15,1,D,Escritura,Morfosintaxis,"Es lo que se entiende por gramática.  Comprende la morfología, el estudio de clases de palabras (sustantivo, verbo, etc.) y su flexión. También considera la sintaxis: funciones que adquieren las palabras en una oración (sujeto, verbo, complementos)."
+ni,0,3,9,9,1,A,Escritura,Coherencia y cohesión,"Características que permiten construir el sentido global del texto, tales como la presencia de una idea central sin ideas inconexas (coherencia) y uso de recursos lingüísticos para mantener las oraciones unidas (cohesión)."
+ni,89,62,34,39,1,C,Lectura,Lectura Diversidad Textual,"Lectura de diversos tipos y géneros textuales.  Estos tipos textuales y géneros tienen diferentes propósitos comunicativos y formas de organizar la información (cuento, anécdota, comic, artículo, opinión, etc.)."
+ni,11,38,27,23,1,A,Lectura,Comprensión lectora literal e inferencial,"Identificación de  información explícita en el texto (comprensión literal) e inferencias realizadas para identificar información sugerida, no explícita, en el texto (comprensión inferencial)."
+ni,0,0,20,19,1,D,Lectura,Estrategias de lectura,"Estrategias que usa el lector para comprender un texto (de relectura, de monitoreo de la comprensión, de anticipación, o hipótesis acerca del contenido de un texto, etc.)."
+ni,0,0,11,4,1,B,Lectura,Decodificación,"Proceso de asociación entre fonemas (sonidos) y grafemas (letras) que permite la lectura de palabras.  Abarca conciencia fonológica, precisión, fluidez y prosodia."
+ni,0,0,8,14,1,E,Lectura,Reflexión y evaluación,"Reflexión, valoración y crítica del texto por parte del lector. Esto permite identificar el propósito comunicativo y puntos de vista del texto, evaluar la funcionalidad de sus elementos formular juicios sobre él a nivel de contenido y forma."
+ni,,15,,17,1,A,Ciencias,"Ciencia, tecnología y sociedad","Refiere a la ciencia y la tecnología como construcciones humanas influenciadas por el contexto sociocultural, político y económico. Incluye temas relativos al impacto de la ciencia y la tecnología en la salud y en el medio ambiente."
+ni,,23,,23,1,B,Ciencias,Cuerpo humano y salud,"Conocimiento parcial del cuerpo humano, y comprensión de aspectos vinculados a su desarrollo, crecimiento y equilibrio; estructuras y funciones de los sistemas de órganos; conocimiento sobre la importancia de la salud para el bienestar general."
+ni,,10,,12,1,C,Ciencias,Ecología y medioambiente,"Nociones y conceptos relativos a la biodiversidad, ecosistema y equilibrio ecológico en relación con los recursos naturales y su importancia para la vida en el planeta, además de la noción de cadena trófica, su dinámica general y relevancia."
+ni,,15,,11,1,D,Ciencias,La energía y sus manifestaciones,Conocimientos de la noción de energía. Incluye el calor como una transferencia de energía; manifestaciones de energía en el planeta; y la noción de fuerza.
+ni,,0,,7,1,E,Ciencias,La materia y sus transformaciones,"Conocimientos de la estructura atómica y molecular y algunos estados de agregación.
+Clasificación de los materiales en sustancias puras o mezclas, y descripción de algunos métodos de separación."
+ni,,15,,13,1,G,Ciencias,Seres vivos,"Conocimiento sobre el ciclo de vida en los seres vivos, así como la noción de célula, particularmente, de su estructura y función en los seres vivos."
+ni,,23,,17,1,F,Ciencias,La tierra y el universo,"Conocimiento de las capas de la Tierra, su composición y dinámica; movimientos “externos” del planeta; fenómenos naturales Incluye la noción de Sistema Solar; el conocimiento de los planetas y de la Luna."
+pa,6,12,9,9,1,A,Matemáticas,Estadística y probabilidad,"Lectura e interpretación de datos estadísticos a partir de su representación en tablas, gráficos, pictogramas y diagramas.
+Habilidad de organizar datos recolectados en tablas, gráficos, pictogramas y diagramas."
+pa,25,7,21,23,1,B,Matemáticas,Geometría,"Conocimiento de las figuras y cuerpos geométricos, su caracterización, clasificación y construcción.
+Capacidad de establecer relaciones entre ellos y el entorno."
+pa,12,26,22,18,1,C,Matemáticas,Magnitudes y medidas,"Conocimiento de distintas magnitudes, y de sus distintas unidades de medidas. 
+Capacidad de realizar conversiones y de utilizarlas de acuerdo al contexto.
+Conocimiento y uso adecuado de distintos instrumentos de medición."
+pa,58,50,43,47,1,D,Matemáticas,Número y operaciones,"Conocimiento de los conjuntos de los números naturales y de los números racionales positivos.
+Cálculo de las operaciones de adición, sustracción, multiplicación y división en esos conjuntos; aplicación de sus propiedades y relaciones."
+pa,0,5,5,4,1,E,Matemáticas,Patrones y álgebra,"Capacidad de identificar, completar y construir regularidades numéricas y gráficas a partir de objetos del entorno, figuras geométricas y secuencias numéricas.
+Conocimiento para plantear y resolver ecuaciones simples de una variable."
+pa,21,22,29,29,1,B,Escritura,Conocimiento sobre el código,"Conocimiento del sistema alfabético, de grafemas (letras) y fonemas (sonidos). También considera aspectos caligráficos y ortográficos, y relaciones de significado, (sinónimos y antónimos)."
+pa,7,2,26,23,1,E,Escritura,Procesos involucrados en la escritura,"Procesos cognitivos involucrados en la producción escrita, como la planificación, textualización, revisión y reescritura de un texto, memoria de trabajo. Estos procesos suelen ser recursivos."
+pa,45,32,21,23,1,C,Escritura,Escritura Diversidad Textual,"Escritura de diversos tipos textuales, los que tienen diferentes propósitos comunicativos y formas de organizar la información según género (cuento, anécdota, comic, artículo, etc.)."
+pa,24,37,15,15,1,D,Escritura,Morfosintaxis,"Es lo que se entiende por gramática.  Comprende la morfología, el estudio de clases de palabras (sustantivo, verbo, etc.) y su flexión. También considera la sintaxis: funciones que adquieren las palabras en una oración (sujeto, verbo, complementos)."
+pa,3,7,9,9,1,A,Escritura,Coherencia y cohesión,"Características que permiten construir el sentido global del texto, tales como la presencia de una idea central sin ideas inconexas (coherencia) y uso de recursos lingüísticos para mantener las oraciones unidas (cohesión)."
+pa,44,44,34,39,1,C,Lectura,Lectura Diversidad Textual,"Lectura de diversos tipos y géneros textuales.  Estos tipos textuales y géneros tienen diferentes propósitos comunicativos y formas de organizar la información (cuento, anécdota, comic, artículo, opinión, etc.)."
+pa,19,16,27,23,1,A,Lectura,Comprensión lectora literal e inferencial,"Identificación de  información explícita en el texto (comprensión literal) e inferencias realizadas para identificar información sugerida, no explícita, en el texto (comprensión inferencial)."
+pa,19,16,20,19,1,D,Lectura,Estrategias de lectura,"Estrategias que usa el lector para comprender un texto (de relectura, de monitoreo de la comprensión, de anticipación, o hipótesis acerca del contenido de un texto, etc.)."
+pa,6,3,11,4,1,B,Lectura,Decodificación,"Proceso de asociación entre fonemas (sonidos) y grafemas (letras) que permite la lectura de palabras.  Abarca conciencia fonológica, precisión, fluidez y prosodia."
+pa,12,22,8,14,1,E,Lectura,Reflexión y evaluación,"Reflexión, valoración y crítica del texto por parte del lector. Esto permite identificar el propósito comunicativo y puntos de vista del texto, evaluar la funcionalidad de sus elementos formular juicios sobre él a nivel de contenido y forma."
+pa,,21,,17,1,A,Ciencias,"Ciencia, tecnología y sociedad","Refiere a la ciencia y la tecnología como construcciones humanas influenciadas por el contexto sociocultural, político y económico. Incluye temas relativos al impacto de la ciencia y la tecnología en la salud y en el medio ambiente."
+pa,,38,,23,1,B,Ciencias,Cuerpo humano y salud,"Conocimiento parcial del cuerpo humano, y comprensión de aspectos vinculados a su desarrollo, crecimiento y equilibrio; estructuras y funciones de los sistemas de órganos; conocimiento sobre la importancia de la salud para el bienestar general."
+pa,,8,,12,1,C,Ciencias,Ecología y medioambiente,"Nociones y conceptos relativos a la biodiversidad, ecosistema y equilibrio ecológico en relación con los recursos naturales y su importancia para la vida en el planeta, además de la noción de cadena trófica, su dinámica general y relevancia."
+pa,,4,,11,1,D,Ciencias,La energía y sus manifestaciones,Conocimientos de la noción de energía. Incluye el calor como una transferencia de energía; manifestaciones de energía en el planeta; y la noción de fuerza.
+pa,,4,,7,1,E,Ciencias,La materia y sus transformaciones,"Conocimientos de la estructura atómica y molecular y algunos estados de agregación.
+Clasificación de los materiales en sustancias puras o mezclas, y descripción de algunos métodos de separación."
+pa,,4,,13,1,G,Ciencias,Seres vivos,"Conocimiento sobre el ciclo de vida en los seres vivos, así como la noción de célula, particularmente, de su estructura y función en los seres vivos."
+pa,,21,,17,1,F,Ciencias,La tierra y el universo,"Conocimiento de las capas de la Tierra, su composición y dinámica; movimientos “externos” del planeta; fenómenos naturales Incluye la noción de Sistema Solar; el conocimiento de los planetas y de la Luna."
+py,21,10,9,9,1,A,Matemáticas,Estadística y probabilidad,"Lectura e interpretación de datos estadísticos a partir de su representación en tablas, gráficos, pictogramas y diagramas.
+Habilidad de organizar datos recolectados en tablas, gráficos, pictogramas y diagramas."
+py,5,13,21,23,1,B,Matemáticas,Geometría,"Conocimiento de las figuras y cuerpos geométricos, su caracterización, clasificación y construcción.
+Capacidad de establecer relaciones entre ellos y el entorno."
+py,18,40,22,18,1,C,Matemáticas,Magnitudes y medidas,"Conocimiento de distintas magnitudes, y de sus distintas unidades de medidas. 
+Capacidad de realizar conversiones y de utilizarlas de acuerdo al contexto.
+Conocimiento y uso adecuado de distintos instrumentos de medición."
+py,51,37,43,47,1,D,Matemáticas,Número y operaciones,"Conocimiento de los conjuntos de los números naturales y de los números racionales positivos.
+Cálculo de las operaciones de adición, sustracción, multiplicación y división en esos conjuntos; aplicación de sus propiedades y relaciones."
+py,5,0,5,4,1,E,Matemáticas,Patrones y álgebra,"Capacidad de identificar, completar y construir regularidades numéricas y gráficas a partir de objetos del entorno, figuras geométricas y secuencias numéricas.
+Conocimiento para plantear y resolver ecuaciones simples de una variable."
+py,53,33,29,29,1,B,Escritura,Conocimiento sobre el código,"Conocimiento del sistema alfabético, de grafemas (letras) y fonemas (sonidos). También considera aspectos caligráficos y ortográficos, y relaciones de significado, (sinónimos y antónimos)."
+py,0,17,26,23,1,E,Escritura,Procesos involucrados en la escritura,"Procesos cognitivos involucrados en la producción escrita, como la planificación, textualización, revisión y reescritura de un texto, memoria de trabajo. Estos procesos suelen ser recursivos."
+py,16,13,21,23,1,C,Escritura,Escritura Diversidad Textual,"Escritura de diversos tipos textuales, los que tienen diferentes propósitos comunicativos y formas de organizar la información según género (cuento, anécdota, comic, artículo, etc.)."
+py,26,17,15,15,1,D,Escritura,Morfosintaxis,"Es lo que se entiende por gramática.  Comprende la morfología, el estudio de clases de palabras (sustantivo, verbo, etc.) y su flexión. También considera la sintaxis: funciones que adquieren las palabras en una oración (sujeto, verbo, complementos)."
+py,5,21,9,9,1,A,Escritura,Coherencia y cohesión,"Características que permiten construir el sentido global del texto, tales como la presencia de una idea central sin ideas inconexas (coherencia) y uso de recursos lingüísticos para mantener las oraciones unidas (cohesión)."
+py,21,43,34,39,1,C,Lectura,Lectura Diversidad Textual,"Lectura de diversos tipos y géneros textuales.  Estos tipos textuales y géneros tienen diferentes propósitos comunicativos y formas de organizar la información (cuento, anécdota, comic, artículo, opinión, etc.)."
+py,49,25,27,23,1,A,Lectura,Comprensión lectora literal e inferencial,"Identificación de  información explícita en el texto (comprensión literal) e inferencias realizadas para identificar información sugerida, no explícita, en el texto (comprensión inferencial)."
+py,12,11,20,19,1,D,Lectura,Estrategias de lectura,"Estrategias que usa el lector para comprender un texto (de relectura, de monitoreo de la comprensión, de anticipación, o hipótesis acerca del contenido de un texto, etc.)."
+py,9,2,11,4,1,B,Lectura,Decodificación,"Proceso de asociación entre fonemas (sonidos) y grafemas (letras) que permite la lectura de palabras.  Abarca conciencia fonológica, precisión, fluidez y prosodia."
+py,9,20,8,14,1,E,Lectura,Reflexión y evaluación,"Reflexión, valoración y crítica del texto por parte del lector. Esto permite identificar el propósito comunicativo y puntos de vista del texto, evaluar la funcionalidad de sus elementos formular juicios sobre él a nivel de contenido y forma."
+py,,12,,17,1,A,Ciencias,"Ciencia, tecnología y sociedad","Refiere a la ciencia y la tecnología como construcciones humanas influenciadas por el contexto sociocultural, político y económico. Incluye temas relativos al impacto de la ciencia y la tecnología en la salud y en el medio ambiente."
+py,,15,,23,1,B,Ciencias,Cuerpo humano y salud,"Conocimiento parcial del cuerpo humano, y comprensión de aspectos vinculados a su desarrollo, crecimiento y equilibrio; estructuras y funciones de los sistemas de órganos; conocimiento sobre la importancia de la salud para el bienestar general."
+py,,15,,12,1,C,Ciencias,Ecología y medioambiente,"Nociones y conceptos relativos a la biodiversidad, ecosistema y equilibrio ecológico en relación con los recursos naturales y su importancia para la vida en el planeta, además de la noción de cadena trófica, su dinámica general y relevancia."
+py,,8,,11,1,D,Ciencias,La energía y sus manifestaciones,Conocimientos de la noción de energía. Incluye el calor como una transferencia de energía; manifestaciones de energía en el planeta; y la noción de fuerza.
+py,,8,,7,1,E,Ciencias,La materia y sus transformaciones,"Conocimientos de la estructura atómica y molecular y algunos estados de agregación.
+Clasificación de los materiales en sustancias puras o mezclas, y descripción de algunos métodos de separación."
+py,,19,,13,1,G,Ciencias,Seres vivos,"Conocimiento sobre el ciclo de vida en los seres vivos, así como la noción de célula, particularmente, de su estructura y función en los seres vivos."
+py,,23,,17,1,F,Ciencias,La tierra y el universo,"Conocimiento de las capas de la Tierra, su composición y dinámica; movimientos “externos” del planeta; fenómenos naturales Incluye la noción de Sistema Solar; el conocimiento de los planetas y de la Luna."
+pe,19,18,9,9,1,A,Matemáticas,Estadística y probabilidad,"Lectura e interpretación de datos estadísticos a partir de su representación en tablas, gráficos, pictogramas y diagramas.
+Habilidad de organizar datos recolectados en tablas, gráficos, pictogramas y diagramas."
+pe,17,21,21,23,1,B,Matemáticas,Geometría,"Conocimiento de las figuras y cuerpos geométricos, su caracterización, clasificación y construcción.
+Capacidad de establecer relaciones entre ellos y el entorno."
+pe,16,13,22,18,1,C,Matemáticas,Magnitudes y medidas,"Conocimiento de distintas magnitudes, y de sus distintas unidades de medidas. 
+Capacidad de realizar conversiones y de utilizarlas de acuerdo al contexto.
+Conocimiento y uso adecuado de distintos instrumentos de medición."
+pe,41,30,43,47,1,D,Matemáticas,Número y operaciones,"Conocimiento de los conjuntos de los números naturales y de los números racionales positivos.
+Cálculo de las operaciones de adición, sustracción, multiplicación y división en esos conjuntos; aplicación de sus propiedades y relaciones."
+pe,7,18,5,4,1,E,Matemáticas,Patrones y álgebra,"Capacidad de identificar, completar y construir regularidades numéricas y gráficas a partir de objetos del entorno, figuras geométricas y secuencias numéricas.
+Conocimiento para plantear y resolver ecuaciones simples de una variable."
+pe,36,50,29,29,1,B,Escritura,Conocimiento sobre el código,"Conocimiento del sistema alfabético, de grafemas (letras) y fonemas (sonidos). También considera aspectos caligráficos y ortográficos, y relaciones de significado, (sinónimos y antónimos)."
+pe,18,7,26,23,1,E,Escritura,Procesos involucrados en la escritura,"Procesos cognitivos involucrados en la producción escrita, como la planificación, textualización, revisión y reescritura de un texto, memoria de trabajo. Estos procesos suelen ser recursivos."
+pe,9,7,21,23,1,C,Escritura,Escritura Diversidad Textual,"Escritura de diversos tipos textuales, los que tienen diferentes propósitos comunicativos y formas de organizar la información según género (cuento, anécdota, comic, artículo, etc.)."
+pe,18,21,15,15,1,D,Escritura,Morfosintaxis,"Es lo que se entiende por gramática.  Comprende la morfología, el estudio de clases de palabras (sustantivo, verbo, etc.) y su flexión. También considera la sintaxis: funciones que adquieren las palabras en una oración (sujeto, verbo, complementos)."
+pe,18,14,9,9,1,A,Escritura,Coherencia y cohesión,"Características que permiten construir el sentido global del texto, tales como la presencia de una idea central sin ideas inconexas (coherencia) y uso de recursos lingüísticos para mantener las oraciones unidas (cohesión)."
+pe,15,13,34,39,1,C,Lectura,Lectura Diversidad Textual,"Lectura de diversos tipos y géneros textuales.  Estos tipos textuales y géneros tienen diferentes propósitos comunicativos y formas de organizar la información (cuento, anécdota, comic, artículo, opinión, etc.)."
+pe,46,40,27,23,1,A,Lectura,Comprensión lectora literal e inferencial,"Identificación de  información explícita en el texto (comprensión literal) e inferencias realizadas para identificar información sugerida, no explícita, en el texto (comprensión inferencial)."
+pe,31,33,20,19,1,D,Lectura,Estrategias de lectura,"Estrategias que usa el lector para comprender un texto (de relectura, de monitoreo de la comprensión, de anticipación, o hipótesis acerca del contenido de un texto, etc.)."
+pe,0,0,11,4,1,B,Lectura,Decodificación,"Proceso de asociación entre fonemas (sonidos) y grafemas (letras) que permite la lectura de palabras.  Abarca conciencia fonológica, precisión, fluidez y prosodia."
+pe,8,13,8,14,1,E,Lectura,Reflexión y evaluación,"Reflexión, valoración y crítica del texto por parte del lector. Esto permite identificar el propósito comunicativo y puntos de vista del texto, evaluar la funcionalidad de sus elementos formular juicios sobre él a nivel de contenido y forma."
+pe,,61,,17,1,A,Ciencias,"Ciencia, tecnología y sociedad","Refiere a la ciencia y la tecnología como construcciones humanas influenciadas por el contexto sociocultural, político y económico. Incluye temas relativos al impacto de la ciencia y la tecnología en la salud y en el medio ambiente."
+pe,,0,,23,1,B,Ciencias,Cuerpo humano y salud,"Conocimiento parcial del cuerpo humano, y comprensión de aspectos vinculados a su desarrollo, crecimiento y equilibrio; estructuras y funciones de los sistemas de órganos; conocimiento sobre la importancia de la salud para el bienestar general."
+pe,,6,,12,1,C,Ciencias,Ecología y medioambiente,"Nociones y conceptos relativos a la biodiversidad, ecosistema y equilibrio ecológico en relación con los recursos naturales y su importancia para la vida en el planeta, además de la noción de cadena trófica, su dinámica general y relevancia."
+pe,,0,,11,1,D,Ciencias,La energía y sus manifestaciones,Conocimientos de la noción de energía. Incluye el calor como una transferencia de energía; manifestaciones de energía en el planeta; y la noción de fuerza.
+pe,,17,,7,1,E,Ciencias,La materia y sus transformaciones,"Conocimientos de la estructura atómica y molecular y algunos estados de agregación.
+Clasificación de los materiales en sustancias puras o mezclas, y descripción de algunos métodos de separación."
+pe,,11,,13,1,G,Ciencias,Seres vivos,"Conocimiento sobre el ciclo de vida en los seres vivos, así como la noción de célula, particularmente, de su estructura y función en los seres vivos."
+pe,,6,,17,1,F,Ciencias,La tierra y el universo,"Conocimiento de las capas de la Tierra, su composición y dinámica; movimientos “externos” del planeta; fenómenos naturales Incluye la noción de Sistema Solar; el conocimiento de los planetas y de la Luna."
+do,5,0,9,9,1,A,Matemáticas,Estadística y probabilidad,"Lectura e interpretación de datos estadísticos a partir de su representación en tablas, gráficos, pictogramas y diagramas.
+Habilidad de organizar datos recolectados en tablas, gráficos, pictogramas y diagramas."
+do,45,27,21,23,1,B,Matemáticas,Geometría,"Conocimiento de las figuras y cuerpos geométricos, su caracterización, clasificación y construcción.
+Capacidad de establecer relaciones entre ellos y el entorno."
+do,32,40,22,18,1,C,Matemáticas,Magnitudes y medidas,"Conocimiento de distintas magnitudes, y de sus distintas unidades de medidas. 
+Capacidad de realizar conversiones y de utilizarlas de acuerdo al contexto.
+Conocimiento y uso adecuado de distintos instrumentos de medición."
+do,12,32,43,47,1,D,Matemáticas,Número y operaciones,"Conocimiento de los conjuntos de los números naturales y de los números racionales positivos.
+Cálculo de las operaciones de adición, sustracción, multiplicación y división en esos conjuntos; aplicación de sus propiedades y relaciones."
+do,6,0,5,4,1,E,Matemáticas,Patrones y álgebra,"Capacidad de identificar, completar y construir regularidades numéricas y gráficas a partir de objetos del entorno, figuras geométricas y secuencias numéricas.
+Conocimiento para plantear y resolver ecuaciones simples de una variable."
+do,12,7,29,29,1,B,Escritura,Conocimiento sobre el código,"Conocimiento del sistema alfabético, de grafemas (letras) y fonemas (sonidos). También considera aspectos caligráficos y ortográficos, y relaciones de significado, (sinónimos y antónimos)."
+do,73,68,26,23,1,E,Escritura,Procesos involucrados en la escritura,"Procesos cognitivos involucrados en la producción escrita, como la planificación, textualización, revisión y reescritura de un texto, memoria de trabajo. Estos procesos suelen ser recursivos."
+do,7,12,21,23,1,C,Escritura,Escritura Diversidad Textual,"Escritura de diversos tipos textuales, los que tienen diferentes propósitos comunicativos y formas de organizar la información según género (cuento, anécdota, comic, artículo, etc.)."
+do,5,7,15,15,1,D,Escritura,Morfosintaxis,"Es lo que se entiende por gramática.  Comprende la morfología, el estudio de clases de palabras (sustantivo, verbo, etc.) y su flexión. También considera la sintaxis: funciones que adquieren las palabras en una oración (sujeto, verbo, complementos)."
+do,3,5,9,9,1,A,Escritura,Coherencia y cohesión,"Características que permiten construir el sentido global del texto, tales como la presencia de una idea central sin ideas inconexas (coherencia) y uso de recursos lingüísticos para mantener las oraciones unidas (cohesión)."
+do,15,19,34,39,1,C,Lectura,Lectura Diversidad Textual,"Lectura de diversos tipos y géneros textuales.  Estos tipos textuales y géneros tienen diferentes propósitos comunicativos y formas de organizar la información (cuento, anécdota, comic, artículo, opinión, etc.)."
+do,32,33,27,23,1,A,Lectura,Comprensión lectora literal e inferencial,"Identificación de  información explícita en el texto (comprensión literal) e inferencias realizadas para identificar información sugerida, no explícita, en el texto (comprensión inferencial)."
+do,47,44,20,19,1,D,Lectura,Estrategias de lectura,"Estrategias que usa el lector para comprender un texto (de relectura, de monitoreo de la comprensión, de anticipación, o hipótesis acerca del contenido de un texto, etc.)."
+do,3,3,11,4,1,B,Lectura,Decodificación,"Proceso de asociación entre fonemas (sonidos) y grafemas (letras) que permite la lectura de palabras.  Abarca conciencia fonológica, precisión, fluidez y prosodia."
+do,3,1,8,14,1,E,Lectura,Reflexión y evaluación,"Reflexión, valoración y crítica del texto por parte del lector. Esto permite identificar el propósito comunicativo y puntos de vista del texto, evaluar la funcionalidad de sus elementos formular juicios sobre él a nivel de contenido y forma."
+do,,7,,17,1,A,Ciencias,"Ciencia, tecnología y sociedad","Refiere a la ciencia y la tecnología como construcciones humanas influenciadas por el contexto sociocultural, político y económico. Incluye temas relativos al impacto de la ciencia y la tecnología en la salud y en el medio ambiente."
+do,,23,,23,1,B,Ciencias,Cuerpo humano y salud,"Conocimiento parcial del cuerpo humano, y comprensión de aspectos vinculados a su desarrollo, crecimiento y equilibrio; estructuras y funciones de los sistemas de órganos; conocimiento sobre la importancia de la salud para el bienestar general."
+do,,5,,12,1,C,Ciencias,Ecología y medioambiente,"Nociones y conceptos relativos a la biodiversidad, ecosistema y equilibrio ecológico en relación con los recursos naturales y su importancia para la vida en el planeta, además de la noción de cadena trófica, su dinámica general y relevancia."
+do,,12,,11,1,D,Ciencias,La energía y sus manifestaciones,Conocimientos de la noción de energía. Incluye el calor como una transferencia de energía; manifestaciones de energía en el planeta; y la noción de fuerza.
+do,,10,,7,1,E,Ciencias,La materia y sus transformaciones,"Conocimientos de la estructura atómica y molecular y algunos estados de agregación.
+Clasificación de los materiales en sustancias puras o mezclas, y descripción de algunos métodos de separación."
+do,,6,,13,1,G,Ciencias,Seres vivos,"Conocimiento sobre el ciclo de vida en los seres vivos, así como la noción de célula, particularmente, de su estructura y función en los seres vivos."
+do,,38,,17,1,F,Ciencias,La tierra y el universo,"Conocimiento de las capas de la Tierra, su composición y dinámica; movimientos “externos” del planeta; fenómenos naturales Incluye la noción de Sistema Solar; el conocimiento de los planetas y de la Luna."
+uy,6,5,9,9,1,A,Matemáticas,Estadística y probabilidad,"Lectura e interpretación de datos estadísticos a partir de su representación en tablas, gráficos, pictogramas y diagramas.
+Habilidad de organizar datos recolectados en tablas, gráficos, pictogramas y diagramas."
+uy,34,29,21,23,1,B,Matemáticas,Geometría,"Conocimiento de las figuras y cuerpos geométricos, su caracterización, clasificación y construcción.
+Capacidad de establecer relaciones entre ellos y el entorno."
+uy,18,20,22,18,1,C,Matemáticas,Magnitudes y medidas,"Conocimiento de distintas magnitudes, y de sus distintas unidades de medidas. 
+Capacidad de realizar conversiones y de utilizarlas de acuerdo al contexto.
+Conocimiento y uso adecuado de distintos instrumentos de medición."
+uy,43,46,43,47,1,D,Matemáticas,Número y operaciones,"Conocimiento de los conjuntos de los números naturales y de los números racionales positivos.
+Cálculo de las operaciones de adición, sustracción, multiplicación y división en esos conjuntos; aplicación de sus propiedades y relaciones."
+uy,0,2,5,4,1,E,Matemáticas,Patrones y álgebra,"Capacidad de identificar, completar y construir regularidades numéricas y gráficas a partir de objetos del entorno, figuras geométricas y secuencias numéricas.
+Conocimiento para plantear y resolver ecuaciones simples de una variable."
+uy,28,25,29,29,1,B,Escritura,Conocimiento sobre el código,"Conocimiento del sistema alfabético, de grafemas (letras) y fonemas (sonidos). También considera aspectos caligráficos y ortográficos, y relaciones de significado, (sinónimos y antónimos)."
+uy,11,25,26,23,1,E,Escritura,Procesos involucrados en la escritura,"Procesos cognitivos involucrados en la producción escrita, como la planificación, textualización, revisión y reescritura de un texto, memoria de trabajo. Estos procesos suelen ser recursivos."
+uy,28,25,21,23,1,C,Escritura,Escritura Diversidad Textual,"Escritura de diversos tipos textuales, los que tienen diferentes propósitos comunicativos y formas de organizar la información según género (cuento, anécdota, comic, artículo, etc.)."
+uy,28,12,15,15,1,D,Escritura,Morfosintaxis,"Es lo que se entiende por gramática.  Comprende la morfología, el estudio de clases de palabras (sustantivo, verbo, etc.) y su flexión. También considera la sintaxis: funciones que adquieren las palabras en una oración (sujeto, verbo, complementos)."
+uy,6,12,9,9,1,A,Escritura,Coherencia y cohesión,"Características que permiten construir el sentido global del texto, tales como la presencia de una idea central sin ideas inconexas (coherencia) y uso de recursos lingüísticos para mantener las oraciones unidas (cohesión)."
+uy,50,53,34,39,1,C,Lectura,Lectura Diversidad Textual,"Lectura de diversos tipos y géneros textuales.  Estos tipos textuales y géneros tienen diferentes propósitos comunicativos y formas de organizar la información (cuento, anécdota, comic, artículo, opinión, etc.)."
+uy,38,26,27,23,1,A,Lectura,Comprensión lectora literal e inferencial,"Identificación de  información explícita en el texto (comprensión literal) e inferencias realizadas para identificar información sugerida, no explícita, en el texto (comprensión inferencial)."
+uy,6,16,20,19,1,D,Lectura,Estrategias de lectura,"Estrategias que usa el lector para comprender un texto (de relectura, de monitoreo de la comprensión, de anticipación, o hipótesis acerca del contenido de un texto, etc.)."
+uy,6,5,11,4,1,B,Lectura,Decodificación,"Proceso de asociación entre fonemas (sonidos) y grafemas (letras) que permite la lectura de palabras.  Abarca conciencia fonológica, precisión, fluidez y prosodia."
+uy,0,0,8,14,1,E,Lectura,Reflexión y evaluación,"Reflexión, valoración y crítica del texto por parte del lector. Esto permite identificar el propósito comunicativo y puntos de vista del texto, evaluar la funcionalidad de sus elementos formular juicios sobre él a nivel de contenido y forma."
+uy,,4,,17,1,A,Ciencias,"Ciencia, tecnología y sociedad","Refiere a la ciencia y la tecnología como construcciones humanas influenciadas por el contexto sociocultural, político y económico. Incluye temas relativos al impacto de la ciencia y la tecnología en la salud y en el medio ambiente."
+uy,,4,,23,1,B,Ciencias,Cuerpo humano y salud,"Conocimiento parcial del cuerpo humano, y comprensión de aspectos vinculados a su desarrollo, crecimiento y equilibrio; estructuras y funciones de los sistemas de órganos; conocimiento sobre la importancia de la salud para el bienestar general."
+uy,,17,,12,1,C,Ciencias,Ecología y medioambiente,"Nociones y conceptos relativos a la biodiversidad, ecosistema y equilibrio ecológico en relación con los recursos naturales y su importancia para la vida en el planeta, además de la noción de cadena trófica, su dinámica general y relevancia."
+uy,,26,,11,1,D,Ciencias,La energía y sus manifestaciones,Conocimientos de la noción de energía. Incluye el calor como una transferencia de energía; manifestaciones de energía en el planeta; y la noción de fuerza.
+uy,,13,,7,1,E,Ciencias,La materia y sus transformaciones,"Conocimientos de la estructura atómica y molecular y algunos estados de agregación. Clasificación de los materiales en sustancias puras o mezclas, y descripción de algunos métodos de separación."
+uy,,15,,13,1,G,Ciencias,Seres vivos,"Conocimiento sobre el ciclo de vida en los seres vivos, así como la noción de célula, particularmente, de su estructura y función en los seres vivos."
+uy,,20,,17,1,F,Ciencias,La tierra y el universo,"Conocimiento de las capas de la Tierra, su composición y dinámica; movimientos “externos” del planeta; fenómenos naturales Incluye la noción de Sistema Solar; el conocimiento de los planetas y de la Luna."
